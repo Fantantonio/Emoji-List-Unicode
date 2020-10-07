@@ -114,7 +114,7 @@
   * [country-flag](#country-flag)
   * [subdivision-flag](#subdivision-flag)
 <br><br><br>
-## Smileys & Emotion
+## Smileys-&-Emotion
 #### face-smiling
 
 
@@ -361,7 +361,7 @@
 | 155 | U+1F4AD | 💭 | `:thought balloon:` |
 | 156 | U+1F4A4 | 💤 | `:zzz:` |
 
-## People & Body
+## People-&-Body
 #### hand-fingers-open
 
 
@@ -818,7 +818,7 @@
 | 508 | U+1F9B3 | 🦳 | `:white hair:` |
 | 509 | U+1F9B2 | 🦲 | `:bald:` |
 
-## Animals & Nature
+## Animals-&-Nature
 #### animal-mammal
 
 
@@ -1007,7 +1007,7 @@
 | 648 | U+1F342 | 🍂 | `:fallen leaf:` |
 | 649 | U+1F343 | 🍃 | `:leaf fluttering in wind:` |
 
-## Food & Drink
+## Food-&-Drink
 #### food-fruit
 
 
@@ -1185,7 +1185,7 @@
 | 777 | U+1F52A | 🔪 | `:kitchen knife:` |
 | 778 | U+1F3FA | 🏺 | `:amphora:` |
 
-## Travel & Places
+## Travel-&-Places
 #### place-map
 
 
@@ -1414,7 +1414,7 @@
 | 945 | U+1F55A | 🕚 | `:eleven o’clock:` |
 | 946 | U+1F566 | 🕦 | `:eleven-thirty:` |
 
-#### sky & weather
+#### sky-&-weather
 
 
 | Number | Code | Emoji | CLDR Short Name |
@@ -1569,7 +1569,7 @@
 | 1069 | U+1F004 | 🀄 | `:mahjong red dragon:` |
 | 1070 | U+1F3B4 | 🎴 | `:flower playing cards:` |
 
-#### arts & crafts
+#### arts-&-crafts
 
 
 | Number | Code | Emoji | CLDR Short Name |
@@ -1710,7 +1710,7 @@
 | 1167 | U+1F4C0 | 📀 | `:dvd:` |
 | 1168 | U+1F9EE | 🧮 | `:abacus:` |
 
-#### light & video
+#### light-&-video
 
 
 | Number | Code | Emoji | CLDR Short Name |
