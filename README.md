@@ -1,6 +1,19 @@
 # EMOJI LIST - Unicode
 
+All data are taken from the [Unicode official website](https://unicode.org/emoji/charts/full-emoji-list.html) using [this script](js/dataToMD.js) copy/pasted in the web browser console.
+<br>
+Reference version: 13.1
+<br>
+Upcoming Version: 14.0
 
+
+See [full-emoji-modifiers](full-emoji-modifiers.md) page to get all emoji with skin-tones.
+
+---
+
+<br>
+
+# All Emoji (from 0 to 1816)
 
 ## Index
 
