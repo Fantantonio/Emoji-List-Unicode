@@ -5,8 +5,8 @@
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
 | <h3>Smileys & Emotion</h3>||||
-| <h3>face-smiling</h3>||||
-| 1 | U+1F600 | 😀 | :grinning face: |
+Smileys & Emotion | | <h3>face-smiling</h3>||||
+face-smiling | | 1 | U+1F600 | 😀 | :grinning face: |
 | 2 | U+1F603 | 😃 | :grinning face with big eyes: |
 | 3 | U+1F604 | 😄 | :grinning face with smiling eyes: |
 | 4 | U+1F601 | 😁 | :beaming face with smiling eyes: |
@@ -20,7 +20,7 @@
 | 12 | U+1F60A | 😊 | :smiling face with smiling eyes: |
 | 13 | U+1F607 | 😇 | :smiling face with halo: |
 | <h3>face-affection</h3>||||
-| 14 | U+1F970 | 🥰 | :smiling face with hearts: |
+face-affection | | 14 | U+1F970 | 🥰 | :smiling face with hearts: |
 | 15 | U+1F60D | 😍 | :smiling face with heart-eyes: |
 | 16 | U+1F929 | 🤩 | :star-struck: |
 | 17 | U+1F618 | 😘 | :face blowing a kiss: |
@@ -30,38 +30,36 @@
 | 21 | U+1F619 | 😙 | :kissing face with smiling eyes: |
 | 22 | U+1F972 | 🥲 | :smiling face with tear: |
 | <h3>face-tongue</h3>||||
-| 23 | U+1F60B | 😋 | :face savoring food: |
+face-tongue | | 23 | U+1F60B | 😋 | :face savoring food: |
 | 24 | U+1F61B | 😛 | :face with tongue: |
 | 25 | U+1F61C | 😜 | :winking face with tongue: |
 | 26 | U+1F92A | 🤪 | :zany face: |
 | 27 | U+1F61D | 😝 | :squinting face with tongue: |
 | 28 | U+1F911 | 🤑 | :money-mouth face: |
 | <h3>face-hand</h3>||||
-| 29 | U+1F917 | 🤗 | :hugging face: |
+face-hand | | 29 | U+1F917 | 🤗 | :hugging face: |
 | 30 | U+1F92D | 🤭 | :face with hand over mouth: |
 | 31 | U+1F92B | 🤫 | :shushing face: |
 | 32 | U+1F914 | 🤔 | :thinking face: |
 | <h3>face-neutral-skeptical</h3>||||
-| 33 | U+1F910 | 🤐 | :zipper-mouth face: |
+face-neutral-skeptical | | 33 | U+1F910 | 🤐 | :zipper-mouth face: |
 | 34 | U+1F928 | 🤨 | :face with raised eyebrow: |
 | 35 | U+1F610 | 😐 | :neutral face: |
 | 36 | U+1F611 | 😑 | :expressionless face: |
 | 37 | U+1F636 | 😶 | :face without mouth: |
-| 38 | U+1F636 U+200D U+1F32B U+FE0F | 😶‍🌫️ | :…  …: |
-⊛ face in clouds | | 39 | U+1F60F | 😏 | :smirking face: |
+| | 39 | U+1F60F | 😏 | :smirking face: |
 | 40 | U+1F612 | 😒 | :unamused face: |
 | 41 | U+1F644 | 🙄 | :face with rolling eyes: |
 | 42 | U+1F62C | 😬 | :grimacing face: |
-| 43 | U+1F62E U+200D U+1F4A8 | 😮‍💨 | :…  …: |
-⊛ face exhaling | | 44 | U+1F925 | 🤥 | :lying face: |
+| | 44 | U+1F925 | 🤥 | :lying face: |
 | <h3>face-sleepy</h3>||||
-| 45 | U+1F60C | 😌 | :relieved face: |
+face-sleepy | | 45 | U+1F60C | 😌 | :relieved face: |
 | 46 | U+1F614 | 😔 | :pensive face: |
 | 47 | U+1F62A | 😪 | :sleepy face: |
 | 48 | U+1F924 | 🤤 | :drooling face: |
 | 49 | U+1F634 | 😴 | :sleeping face: |
 | <h3>face-unwell</h3>||||
-| 50 | U+1F637 | 😷 | :face with medical mask: |
+face-unwell | | 50 | U+1F637 | 😷 | :face with medical mask: |
 | 51 | U+1F912 | 🤒 | :face with thermometer: |
 | 52 | U+1F915 | 🤕 | :face with head-bandage: |
 | 53 | U+1F922 | 🤢 | :nauseated face: |
@@ -71,18 +69,17 @@
 | 57 | U+1F976 | 🥶 | :cold face: |
 | 58 | U+1F974 | 🥴 | :woozy face: |
 | 59 | U+1F635 | 😵 | :knocked-out face: |
-| 60 | U+1F635 U+200D U+1F4AB | 😵‍💫 | :…  …: |
-⊛ face with spiral eyes | | 61 | U+1F92F | 🤯 | :exploding head: |
+| | 61 | U+1F92F | 🤯 | :exploding head: |
 | <h3>face-hat</h3>||||
-| 62 | U+1F920 | 🤠 | :cowboy hat face: |
+face-hat | | 62 | U+1F920 | 🤠 | :cowboy hat face: |
 | 63 | U+1F973 | 🥳 | :partying face: |
 | 64 | U+1F978 | 🥸 | :disguised face: |
 | <h3>face-glasses</h3>||||
-| 65 | U+1F60E | 😎 | :smiling face with sunglasses: |
+face-glasses | | 65 | U+1F60E | 😎 | :smiling face with sunglasses: |
 | 66 | U+1F913 | 🤓 | :nerd face: |
 | 67 | U+1F9D0 | 🧐 | :face with monocle: |
 | <h3>face-concerned</h3>||||
-| 68 | U+1F615 | 😕 | :confused face: |
+face-concerned | | 68 | U+1F615 | 😕 | :confused face: |
 | 69 | U+1F61F | 😟 | :worried face: |
 | 70 | U+1F641 | 🙁 | :slightly frowning face: |
 | 71 | U+2639 | ☹ | :frowning face: |
@@ -107,7 +104,7 @@
 | 90 | U+1F62B | 😫 | :tired face: |
 | 91 | U+1F971 | 🥱 | :yawning face: |
 | <h3>face-negative</h3>||||
-| 92 | U+1F624 | 😤 | :face with steam from nose: |
+face-negative | | 92 | U+1F624 | 😤 | :face with steam from nose: |
 | 93 | U+1F621 | 😡 | :pouting face: |
 | 94 | U+1F620 | 😠 | :angry face: |
 | 95 | U+1F92C | 🤬 | :face with symbols on mouth: |
@@ -116,7 +113,7 @@
 | 98 | U+1F480 | 💀 | :skull: |
 | 99 | U+2620 | ☠ | :skull and crossbones: |
 | <h3>face-costume</h3>||||
-| 100 | U+1F4A9 | 💩 | :pile of poo: |
+face-costume | | 100 | U+1F4A9 | 💩 | :pile of poo: |
 | 101 | U+1F921 | 🤡 | :clown face: |
 | 102 | U+1F479 | 👹 | :ogre: |
 | 103 | U+1F47A | 👺 | :goblin: |
@@ -125,7 +122,7 @@
 | 106 | U+1F47E | 👾 | :alien monster: |
 | 107 | U+1F916 | 🤖 | :robot: |
 | <h3>cat-face</h3>||||
-| 108 | U+1F63A | 😺 | :grinning cat: |
+cat-face | | 108 | U+1F63A | 😺 | :grinning cat: |
 | 109 | U+1F638 | 😸 | :grinning cat with smiling eyes: |
 | 110 | U+1F639 | 😹 | :cat with tears of joy: |
 | 111 | U+1F63B | 😻 | :smiling cat with heart-eyes: |
@@ -135,11 +132,11 @@
 | 115 | U+1F63F | 😿 | :crying cat: |
 | 116 | U+1F63E | 😾 | :pouting cat: |
 | <h3>monkey-face</h3>||||
-| 117 | U+1F648 | 🙈 | :see-no-evil monkey: |
+monkey-face | | 117 | U+1F648 | 🙈 | :see-no-evil monkey: |
 | 118 | U+1F649 | 🙉 | :hear-no-evil monkey: |
 | 119 | U+1F64A | 🙊 | :speak-no-evil monkey: |
 | <h3>emotion</h3>||||
-| 120 | U+1F48B | 💋 | :kiss mark: |
+emotion | | 120 | U+1F48B | 💋 | :kiss mark: |
 | 121 | U+1F48C | 💌 | :love letter: |
 | 122 | U+1F498 | 💘 | :heart with arrow: |
 | 123 | U+1F49D | 💝 | :heart with ribbon: |
@@ -151,9 +148,7 @@
 | 129 | U+1F49F | 💟 | :heart decoration: |
 | 130 | U+2763 | ❣ | :heart exclamation: |
 | 131 | U+1F494 | 💔 | :broken heart: |
-| 132 | U+2764 U+FE0F U+200D U+1F525 | ❤️‍🔥 | :…  …: |
-⊛ heart on fire | | 133 | U+2764 U+FE0F U+200D U+1FA79 | ❤️‍🩹 | :…  …: |
-⊛ mending heart | | 134 | U+2764 | ❤ | :red heart: |
+| | | 134 | U+2764 | ❤ | :red heart: |
 | 135 | U+1F9E1 | 🧡 | :orange heart: |
 | 136 | U+1F49B | 💛 | :yellow heart: |
 | 137 | U+1F49A | 💚 | :green heart: |
@@ -177,14 +172,14 @@
 | 155 | U+1F4AD | 💭 | :thought balloon: |
 | 156 | U+1F4A4 | 💤 | :zzz: |
 | <h3>People & Body</h3>||||
-| <h3>hand-fingers-open</h3>||||
-| 157 | U+1F44B | 👋 | :waving hand: |
+People & Body | | <h3>hand-fingers-open</h3>||||
+hand-fingers-open | | 157 | U+1F44B | 👋 | :waving hand: |
 | 158 | U+1F91A | 🤚 | :raised back of hand: |
 | 159 | U+1F590 | 🖐 | :hand with fingers splayed: |
 | 160 | U+270B | ✋ | :raised hand: |
 | 161 | U+1F596 | 🖖 | :vulcan salute: |
 | <h3>hand-fingers-partial</h3>||||
-| 162 | U+1F44C | 👌 | :OK hand: |
+hand-fingers-partial | | 162 | U+1F44C | 👌 | :OK hand: |
 | 163 | U+1F90C | 🤌 | :pinched fingers: |
 | 164 | U+1F90F | 🤏 | :pinching hand: |
 | 165 | U+270C | ✌ | :victory hand: |
@@ -193,32 +188,32 @@
 | 168 | U+1F918 | 🤘 | :sign of the horns: |
 | 169 | U+1F919 | 🤙 | :call me hand: |
 | <h3>hand-single-finger</h3>||||
-| 170 | U+1F448 | 👈 | :backhand index pointing left: |
+hand-single-finger | | 170 | U+1F448 | 👈 | :backhand index pointing left: |
 | 171 | U+1F449 | 👉 | :backhand index pointing right: |
 | 172 | U+1F446 | 👆 | :backhand index pointing up: |
 | 173 | U+1F595 | 🖕 | :middle finger: |
 | 174 | U+1F447 | 👇 | :backhand index pointing down: |
 | 175 | U+261D | ☝ | :index pointing up: |
 | <h3>hand-fingers-closed</h3>||||
-| 176 | U+1F44D | 👍 | :thumbs up: |
+hand-fingers-closed | | 176 | U+1F44D | 👍 | :thumbs up: |
 | 177 | U+1F44E | 👎 | :thumbs down: |
 | 178 | U+270A | ✊ | :raised fist: |
 | 179 | U+1F44A | 👊 | :oncoming fist: |
 | 180 | U+1F91B | 🤛 | :left-facing fist: |
 | 181 | U+1F91C | 🤜 | :right-facing fist: |
 | <h3>hands</h3>||||
-| 182 | U+1F44F | 👏 | :clapping hands: |
+hands | | 182 | U+1F44F | 👏 | :clapping hands: |
 | 183 | U+1F64C | 🙌 | :raising hands: |
 | 184 | U+1F450 | 👐 | :open hands: |
 | 185 | U+1F932 | 🤲 | :palms up together: |
 | 186 | U+1F91D | 🤝 | :handshake: |
 | 187 | U+1F64F | 🙏 | :folded hands: |
 | <h3>hand-prop</h3>||||
-| 188 | U+270D | ✍ | :writing hand: |
+hand-prop | | 188 | U+270D | ✍ | :writing hand: |
 | 189 | U+1F485 | 💅 | :nail polish: |
 | 190 | U+1F933 | 🤳 | :selfie: |
 | <h3>body-parts</h3>||||
-| 191 | U+1F4AA | 💪 | :flexed biceps: |
+body-parts | | 191 | U+1F4AA | 💪 | :flexed biceps: |
 | 192 | U+1F9BE | 🦾 | :mechanical arm: |
 | 193 | U+1F9BF | 🦿 | :mechanical leg: |
 | 194 | U+1F9B5 | 🦵 | :leg: |
@@ -236,7 +231,7 @@
 | 206 | U+1F445 | 👅 | :tongue: |
 | 207 | U+1F444 | 👄 | :mouth: |
 | <h3>person</h3>||||
-| 208 | U+1F476 | 👶 | :baby: |
+person | | 208 | U+1F476 | 👶 | :baby: |
 | 209 | U+1F9D2 | 🧒 | :child: |
 | 210 | U+1F466 | 👦 | :boy: |
 | 211 | U+1F467 | 👧 | :girl: |
@@ -244,9 +239,7 @@
 | 213 | U+1F471 | 👱 | person: blond hair |
 | 214 | U+1F468 | 👨 | :man: |
 | 215 | U+1F9D4 | 🧔 | person: beard |
-| 216 | U+1F9D4 U+200D U+2642 U+FE0F | 🧔‍♂️ | :…  …: |
-⊛ man: beard | | 217 | U+1F9D4 U+200D U+2640 U+FE0F | 🧔‍♀️ | :…  …: |
-⊛ woman: beard | | 218 | U+1F468 U+200D U+1F9B0 | 👨‍🦰 | man: red hair |
+| | | 218 | U+1F468 U+200D U+1F9B0 | 👨‍🦰 | man: red hair |
 | 219 | U+1F468 U+200D U+1F9B1 | 👨‍🦱 | man: curly hair |
 | 220 | U+1F468 U+200D U+1F9B3 | 👨‍🦳 | man: white hair |
 | 221 | U+1F468 U+200D U+1F9B2 | 👨‍🦲 | man: bald |
@@ -265,7 +258,7 @@
 | 234 | U+1F474 | 👴 | :old man: |
 | 235 | U+1F475 | 👵 | :old woman: |
 | <h3>person-gesture</h3>||||
-| 236 | U+1F64D | 🙍 | :person frowning: |
+person-gesture | | 236 | U+1F64D | 🙍 | :person frowning: |
 | 237 | U+1F64D U+200D U+2642 U+FE0F | 🙍‍♂️ | :man frowning: |
 | 238 | U+1F64D U+200D U+2640 U+FE0F | 🙍‍♀️ | :woman frowning: |
 | 239 | U+1F64E | 🙎 | :person pouting: |
@@ -296,7 +289,7 @@
 | 264 | U+1F937 U+200D U+2642 U+FE0F | 🤷‍♂️ | :man shrugging: |
 | 265 | U+1F937 U+200D U+2640 U+FE0F | 🤷‍♀️ | :woman shrugging: |
 | <h3>person-role</h3>||||
-| 266 | U+1F9D1 U+200D U+2695 U+FE0F | 🧑‍⚕️ | :health worker: |
+person-role | | 266 | U+1F9D1 U+200D U+2695 U+FE0F | 🧑‍⚕️ | :health worker: |
 | 267 | U+1F468 U+200D U+2695 U+FE0F | 👨‍⚕️ | :man health worker: |
 | 268 | U+1F469 U+200D U+2695 U+FE0F | 👩‍⚕️ | :woman health worker: |
 | 269 | U+1F9D1 U+200D U+1F393 | 🧑‍🎓 | :student: |
@@ -376,7 +369,7 @@
 | 343 | U+1F468 U+200D U+1F37C | 👨‍🍼 | :man feeding baby: |
 | 344 | U+1F9D1 U+200D U+1F37C | 🧑‍🍼 | :person feeding baby: |
 | <h3>person-fantasy</h3>||||
-| 345 | U+1F47C | 👼 | :baby angel: |
+person-fantasy | | 345 | U+1F47C | 👼 | :baby angel: |
 | 346 | U+1F385 | 🎅 | :Santa Claus: |
 | 347 | U+1F936 | 🤶 | :Mrs. Claus: |
 | 348 | U+1F9D1 U+200D U+1F384 | 🧑‍🎄 | :mx claus: |
@@ -408,7 +401,7 @@
 | 374 | U+1F9DF U+200D U+2642 U+FE0F | 🧟‍♂️ | :man zombie: |
 | 375 | U+1F9DF U+200D U+2640 U+FE0F | 🧟‍♀️ | :woman zombie: |
 | <h3>person-activity</h3>||||
-| 376 | U+1F486 | 💆 | :person getting massage: |
+person-activity | | 376 | U+1F486 | 💆 | :person getting massage: |
 | 377 | U+1F486 U+200D U+2642 U+FE0F | 💆‍♂️ | :man getting massage: |
 | 378 | U+1F486 U+200D U+2640 U+FE0F | 💆‍♀️ | :woman getting massage: |
 | 379 | U+1F487 | 💇 | :person getting haircut: |
@@ -448,7 +441,7 @@
 | 413 | U+1F9D7 U+200D U+2642 U+FE0F | 🧗‍♂️ | :man climbing: |
 | 414 | U+1F9D7 U+200D U+2640 U+FE0F | 🧗‍♀️ | :woman climbing: |
 | <h3>person-sport</h3>||||
-| 415 | U+1F93A | 🤺 | :person fencing: |
+person-sport | | 415 | U+1F93A | 🤺 | :person fencing: |
 | 416 | U+1F3C7 | 🏇 | :horse racing: |
 | 417 | U+26F7 | ⛷ | :skier: |
 | 418 | U+1F3C2 | 🏂 | :snowboarder: |
@@ -492,13 +485,13 @@
 | 456 | U+1F939 U+200D U+2642 U+FE0F | 🤹‍♂️ | :man juggling: |
 | 457 | U+1F939 U+200D U+2640 U+FE0F | 🤹‍♀️ | :woman juggling: |
 | <h3>person-resting</h3>||||
-| 458 | U+1F9D8 | 🧘 | :person in lotus position: |
+person-resting | | 458 | U+1F9D8 | 🧘 | :person in lotus position: |
 | 459 | U+1F9D8 U+200D U+2642 U+FE0F | 🧘‍♂️ | :man in lotus position: |
 | 460 | U+1F9D8 U+200D U+2640 U+FE0F | 🧘‍♀️ | :woman in lotus position: |
 | 461 | U+1F6C0 | 🛀 | :person taking bath: |
 | 462 | U+1F6CC | 🛌 | :person in bed: |
 | <h3>family</h3>||||
-| 463 | U+1F9D1 U+200D U+1F91D U+200D U+1F9D1 | 🧑‍🤝‍🧑 | :people holding hands: |
+family | | 463 | U+1F9D1 U+200D U+1F91D U+200D U+1F9D1 | 🧑‍🤝‍🧑 | :people holding hands: |
 | 464 | U+1F46D | 👭 | :women holding hands: |
 | 465 | U+1F46B | 👫 | :woman and man holding hands: |
 | 466 | U+1F46C | 👬 | :men holding hands: |
@@ -537,20 +530,20 @@
 | 499 | U+1F469 U+200D U+1F467 U+200D U+1F466 | 👩‍👧‍👦 | family: woman, girl, boy |
 | 500 | U+1F469 U+200D U+1F467 U+200D U+1F467 | 👩‍👧‍👧 | family: woman, girl, girl |
 | <h3>person-symbol</h3>||||
-| 501 | U+1F5E3 | 🗣 | :speaking head: |
+person-symbol | | 501 | U+1F5E3 | 🗣 | :speaking head: |
 | 502 | U+1F464 | 👤 | :bust in silhouette: |
 | 503 | U+1F465 | 👥 | :busts in silhouette: |
 | 504 | U+1FAC2 | 🫂 | :people hugging: |
 | 505 | U+1F463 | 👣 | :footprints: |
 | <h3>Component</h3>||||
-| <h3>hair-style</h3>||||
-| 506 | U+1F9B0 | 🦰 | :red hair: |
+Component | | <h3>hair-style</h3>||||
+hair-style | | 506 | U+1F9B0 | 🦰 | :red hair: |
 | 507 | U+1F9B1 | 🦱 | :curly hair: |
 | 508 | U+1F9B3 | 🦳 | :white hair: |
 | 509 | U+1F9B2 | 🦲 | :bald: |
 | <h3>Animals & Nature</h3>||||
-| <h3>animal-mammal</h3>||||
-| 510 | U+1F435 | 🐵 | :monkey face: |
+Animals & Nature | | <h3>animal-mammal</h3>||||
+animal-mammal | | 510 | U+1F435 | 🐵 | :monkey face: |
 | 511 | U+1F412 | 🐒 | :monkey: |
 | 512 | U+1F98D | 🦍 | :gorilla: |
 | 513 | U+1F9A7 | 🦧 | :orangutan: |
@@ -615,7 +608,7 @@
 | 572 | U+1F9A1 | 🦡 | :badger: |
 | 573 | U+1F43E | 🐾 | :paw prints: |
 | <h3>animal-bird</h3>||||
-| 574 | U+1F983 | 🦃 | :turkey: |
+animal-bird | | 574 | U+1F983 | 🦃 | :turkey: |
 | 575 | U+1F414 | 🐔 | :chicken: |
 | 576 | U+1F413 | 🐓 | :rooster: |
 | 577 | U+1F423 | 🐣 | :hatching chick: |
@@ -634,9 +627,9 @@
 | 590 | U+1F99A | 🦚 | :peacock: |
 | 591 | U+1F99C | 🦜 | :parrot: |
 | <h3>animal-amphibian</h3>||||
-| 592 | U+1F438 | 🐸 | :frog: |
+animal-amphibian | | 592 | U+1F438 | 🐸 | :frog: |
 | <h3>animal-reptile</h3>||||
-| 593 | U+1F40A | 🐊 | :crocodile: |
+animal-reptile | | 593 | U+1F40A | 🐊 | :crocodile: |
 | 594 | U+1F422 | 🐢 | :turtle: |
 | 595 | U+1F98E | 🦎 | :lizard: |
 | 596 | U+1F40D | 🐍 | :snake: |
@@ -645,7 +638,7 @@
 | 599 | U+1F995 | 🦕 | :sauropod: |
 | 600 | U+1F996 | 🦖 | :T-Rex: |
 | <h3>animal-marine</h3>||||
-| 601 | U+1F433 | 🐳 | :spouting whale: |
+animal-marine | | 601 | U+1F433 | 🐳 | :spouting whale: |
 | 602 | U+1F40B | 🐋 | :whale: |
 | 603 | U+1F42C | 🐬 | :dolphin: |
 | 604 | U+1F9AD | 🦭 | :seal: |
@@ -656,7 +649,7 @@
 | 609 | U+1F419 | 🐙 | :octopus: |
 | 610 | U+1F41A | 🐚 | :spiral shell: |
 | <h3>animal-bug</h3>||||
-| 611 | U+1F40C | 🐌 | :snail: |
+animal-bug | | 611 | U+1F40C | 🐌 | :snail: |
 | 612 | U+1F98B | 🦋 | :butterfly: |
 | 613 | U+1F41B | 🐛 | :bug: |
 | 614 | U+1F41C | 🐜 | :ant: |
@@ -673,7 +666,7 @@
 | 625 | U+1FAB1 | 🪱 | :worm: |
 | 626 | U+1F9A0 | 🦠 | :microbe: |
 | <h3>plant-flower</h3>||||
-| 627 | U+1F490 | 💐 | :bouquet: |
+plant-flower | | 627 | U+1F490 | 💐 | :bouquet: |
 | 628 | U+1F338 | 🌸 | :cherry blossom: |
 | 629 | U+1F4AE | 💮 | :white flower: |
 | 630 | U+1F3F5 | 🏵 | :rosette: |
@@ -684,7 +677,7 @@
 | 635 | U+1F33C | 🌼 | :blossom: |
 | 636 | U+1F337 | 🌷 | :tulip: |
 | <h3>plant-other</h3>||||
-| 637 | U+1F331 | 🌱 | :seedling: |
+plant-other | | 637 | U+1F331 | 🌱 | :seedling: |
 | 638 | U+1FAB4 | 🪴 | :potted plant: |
 | 639 | U+1F332 | 🌲 | :evergreen tree: |
 | 640 | U+1F333 | 🌳 | :deciduous tree: |
@@ -698,8 +691,8 @@
 | 648 | U+1F342 | 🍂 | :fallen leaf: |
 | 649 | U+1F343 | 🍃 | :leaf fluttering in wind: |
 | <h3>Food & Drink</h3>||||
-| <h3>food-fruit</h3>||||
-| 650 | U+1F347 | 🍇 | :grapes: |
+Food & Drink | | <h3>food-fruit</h3>||||
+food-fruit | | 650 | U+1F347 | 🍇 | :grapes: |
 | 651 | U+1F348 | 🍈 | :melon: |
 | 652 | U+1F349 | 🍉 | :watermelon: |
 | 653 | U+1F34A | 🍊 | :tangerine: |
@@ -719,7 +712,7 @@
 | 667 | U+1FAD2 | 🫒 | :olive: |
 | 668 | U+1F965 | 🥥 | :coconut: |
 | <h3>food-vegetable</h3>||||
-| 669 | U+1F951 | 🥑 | :avocado: |
+food-vegetable | | 669 | U+1F951 | 🥑 | :avocado: |
 | 670 | U+1F346 | 🍆 | :eggplant: |
 | 671 | U+1F954 | 🥔 | :potato: |
 | 672 | U+1F955 | 🥕 | :carrot: |
@@ -735,7 +728,7 @@
 | 682 | U+1F95C | 🥜 | :peanuts: |
 | 683 | U+1F330 | 🌰 | :chestnut: |
 | <h3>food-prepared</h3>||||
-| 684 | U+1F35E | 🍞 | :bread: |
+food-prepared | | 684 | U+1F35E | 🍞 | :bread: |
 | 685 | U+1F950 | 🥐 | :croissant: |
 | 686 | U+1F956 | 🥖 | :baguette bread: |
 | 687 | U+1FAD3 | 🫓 | :flatbread: |
@@ -770,7 +763,7 @@
 | 716 | U+1F9C2 | 🧂 | :salt: |
 | 717 | U+1F96B | 🥫 | :canned food: |
 | <h3>food-asian</h3>||||
-| 718 | U+1F371 | 🍱 | :bento box: |
+food-asian | | 718 | U+1F371 | 🍱 | :bento box: |
 | 719 | U+1F358 | 🍘 | :rice cracker: |
 | 720 | U+1F359 | 🍙 | :rice ball: |
 | 721 | U+1F35A | 🍚 | :cooked rice: |
@@ -788,13 +781,13 @@
 | 733 | U+1F960 | 🥠 | :fortune cookie: |
 | 734 | U+1F961 | 🥡 | :takeout box: |
 | <h3>food-marine</h3>||||
-| 735 | U+1F980 | 🦀 | :crab: |
+food-marine | | 735 | U+1F980 | 🦀 | :crab: |
 | 736 | U+1F99E | 🦞 | :lobster: |
 | 737 | U+1F990 | 🦐 | :shrimp: |
 | 738 | U+1F991 | 🦑 | :squid: |
 | 739 | U+1F9AA | 🦪 | :oyster: |
 | <h3>food-sweet</h3>||||
-| 740 | U+1F366 | 🍦 | :soft ice cream: |
+food-sweet | | 740 | U+1F366 | 🍦 | :soft ice cream: |
 | 741 | U+1F367 | 🍧 | :shaved ice: |
 | 742 | U+1F368 | 🍨 | :ice cream: |
 | 743 | U+1F369 | 🍩 | :doughnut: |
@@ -809,7 +802,7 @@
 | 752 | U+1F36E | 🍮 | :custard: |
 | 753 | U+1F36F | 🍯 | :honey pot: |
 | <h3>drink</h3>||||
-| 754 | U+1F37C | 🍼 | :baby bottle: |
+drink | | 754 | U+1F37C | 🍼 | :baby bottle: |
 | 755 | U+1F95B | 🥛 | :glass of milk: |
 | 756 | U+2615 | ☕ | :hot beverage: |
 | 757 | U+1FAD6 | 🫖 | :teapot: |
@@ -829,15 +822,15 @@
 | 771 | U+1F9C9 | 🧉 | :mate: |
 | 772 | U+1F9CA | 🧊 | :ice: |
 | <h3>dishware</h3>||||
-| 773 | U+1F962 | 🥢 | :chopsticks: |
+dishware | | 773 | U+1F962 | 🥢 | :chopsticks: |
 | 774 | U+1F37D | 🍽 | :fork and knife with plate: |
 | 775 | U+1F374 | 🍴 | :fork and knife: |
 | 776 | U+1F944 | 🥄 | :spoon: |
 | 777 | U+1F52A | 🔪 | :kitchen knife: |
 | 778 | U+1F3FA | 🏺 | :amphora: |
 | <h3>Travel & Places</h3>||||
-| <h3>place-map</h3>||||
-| 779 | U+1F30D | 🌍 | :globe showing Europe-Africa: |
+Travel & Places | | <h3>place-map</h3>||||
+place-map | | 779 | U+1F30D | 🌍 | :globe showing Europe-Africa: |
 | 780 | U+1F30E | 🌎 | :globe showing Americas: |
 | 781 | U+1F30F | 🌏 | :globe showing Asia-Australia: |
 | 782 | U+1F310 | 🌐 | :globe with meridians: |
@@ -845,7 +838,7 @@
 | 784 | U+1F5FE | 🗾 | :map of Japan: |
 | 785 | U+1F9ED | 🧭 | :compass: |
 | <h3>place-geographic</h3>||||
-| 786 | U+1F3D4 | 🏔 | :snow-capped mountain: |
+place-geographic | | 786 | U+1F3D4 | 🏔 | :snow-capped mountain: |
 | 787 | U+26F0 | ⛰ | :mountain: |
 | 788 | U+1F30B | 🌋 | :volcano: |
 | 789 | U+1F5FB | 🗻 | :mount fuji: |
@@ -855,7 +848,7 @@
 | 793 | U+1F3DD | 🏝 | :desert island: |
 | 794 | U+1F3DE | 🏞 | :national park: |
 | <h3>place-building</h3>||||
-| 795 | U+1F3DF | 🏟 | :stadium: |
+place-building | | 795 | U+1F3DF | 🏟 | :stadium: |
 | 796 | U+1F3DB | 🏛 | :classical building: |
 | 797 | U+1F3D7 | 🏗 | :building construction: |
 | 798 | U+1F9F1 | 🧱 | :brick: |
@@ -883,14 +876,14 @@
 | 820 | U+1F5FC | 🗼 | :Tokyo tower: |
 | 821 | U+1F5FD | 🗽 | :Statue of Liberty: |
 | <h3>place-religious</h3>||||
-| 822 | U+26EA | ⛪ | :church: |
+place-religious | | 822 | U+26EA | ⛪ | :church: |
 | 823 | U+1F54C | 🕌 | :mosque: |
 | 824 | U+1F6D5 | 🛕 | :hindu temple: |
 | 825 | U+1F54D | 🕍 | :synagogue: |
 | 826 | U+26E9 | ⛩ | :shinto shrine: |
 | 827 | U+1F54B | 🕋 | :kaaba: |
 | <h3>place-other</h3>||||
-| 828 | U+26F2 | ⛲ | :fountain: |
+place-other | | 828 | U+26F2 | ⛲ | :fountain: |
 | 829 | U+26FA | ⛺ | :tent: |
 | 830 | U+1F301 | 🌁 | :foggy: |
 | 831 | U+1F303 | 🌃 | :night with stars: |
@@ -907,7 +900,7 @@
 | 842 | U+1F488 | 💈 | :barber pole: |
 | 843 | U+1F3AA | 🎪 | :circus tent: |
 | <h3>transport-ground</h3>||||
-| 844 | U+1F682 | 🚂 | :locomotive: |
+transport-ground | | 844 | U+1F682 | 🚂 | :locomotive: |
 | 845 | U+1F683 | 🚃 | :railway car: |
 | 846 | U+1F684 | 🚄 | :high-speed train: |
 | 847 | U+1F685 | 🚅 | :bullet train: |
@@ -957,7 +950,7 @@
 | 891 | U+1F6D1 | 🛑 | :stop sign: |
 | 892 | U+1F6A7 | 🚧 | :construction: |
 | <h3>transport-water</h3>||||
-| 893 | U+2693 | ⚓ | :anchor: |
+transport-water | | 893 | U+2693 | ⚓ | :anchor: |
 | 894 | U+26F5 | ⛵ | :sailboat: |
 | 895 | U+1F6F6 | 🛶 | :canoe: |
 | 896 | U+1F6A4 | 🚤 | :speedboat: |
@@ -966,7 +959,7 @@
 | 899 | U+1F6E5 | 🛥 | :motor boat: |
 | 900 | U+1F6A2 | 🚢 | :ship: |
 | <h3>transport-air</h3>||||
-| 901 | U+2708 | ✈ | :airplane: |
+transport-air | | 901 | U+2708 | ✈ | :airplane: |
 | 902 | U+1F6E9 | 🛩 | :small airplane: |
 | 903 | U+1F6EB | 🛫 | :airplane departure: |
 | 904 | U+1F6EC | 🛬 | :airplane arrival: |
@@ -980,10 +973,10 @@
 | 912 | U+1F680 | 🚀 | :rocket: |
 | 913 | U+1F6F8 | 🛸 | :flying saucer: |
 | <h3>hotel</h3>||||
-| 914 | U+1F6CE | 🛎 | :bellhop bell: |
+hotel | | 914 | U+1F6CE | 🛎 | :bellhop bell: |
 | 915 | U+1F9F3 | 🧳 | :luggage: |
 | <h3>time</h3>||||
-| 916 | U+231B | ⌛ | :hourglass done: |
+time | | 916 | U+231B | ⌛ | :hourglass done: |
 | 917 | U+23F3 | ⏳ | :hourglass not done: |
 | 918 | U+231A | ⌚ | :watch: |
 | 919 | U+23F0 | ⏰ | :alarm clock: |
@@ -1015,7 +1008,7 @@
 | 945 | U+1F55A | 🕚 | :eleven o’clock: |
 | 946 | U+1F566 | 🕦 | :eleven-thirty: |
 | <h3>sky & weather</h3>||||
-| 947 | U+1F311 | 🌑 | :new moon: |
+sky & weather | | 947 | U+1F311 | 🌑 | :new moon: |
 | 948 | U+1F312 | 🌒 | :waxing crescent moon: |
 | 949 | U+1F313 | 🌓 | :first quarter moon: |
 | 950 | U+1F314 | 🌔 | :waxing gibbous moon: |
@@ -1063,8 +1056,8 @@
 | 992 | U+1F4A7 | 💧 | :droplet: |
 | 993 | U+1F30A | 🌊 | :water wave: |
 | <h3>Activities</h3>||||
-| <h3>event</h3>||||
-| 994 | U+1F383 | 🎃 | :jack-o-lantern: |
+Activities | | <h3>event</h3>||||
+event | | 994 | U+1F383 | 🎃 | :jack-o-lantern: |
 | 995 | U+1F384 | 🎄 | :Christmas tree: |
 | 996 | U+1F386 | 🎆 | :fireworks: |
 | 997 | U+1F387 | 🎇 | :sparkler: |
@@ -1086,14 +1079,14 @@
 | 1013 | U+1F39F | 🎟 | :admission tickets: |
 | 1014 | U+1F3AB | 🎫 | :ticket: |
 | <h3>award-medal</h3>||||
-| 1015 | U+1F396 | 🎖 | :military medal: |
+award-medal | | 1015 | U+1F396 | 🎖 | :military medal: |
 | 1016 | U+1F3C6 | 🏆 | :trophy: |
 | 1017 | U+1F3C5 | 🏅 | :sports medal: |
 | 1018 | U+1F947 | 🥇 | :1st place medal: |
 | 1019 | U+1F948 | 🥈 | :2nd place medal: |
 | 1020 | U+1F949 | 🥉 | :3rd place medal: |
 | <h3>sport</h3>||||
-| 1021 | U+26BD | ⚽ | :soccer ball: |
+sport | | 1021 | U+26BD | ⚽ | :soccer ball: |
 | 1022 | U+26BE | ⚾ | :baseball: |
 | 1023 | U+1F94E | 🥎 | :softball: |
 | 1024 | U+1F3C0 | 🏀 | :basketball: |
@@ -1121,7 +1114,7 @@
 | 1046 | U+1F6F7 | 🛷 | :sled: |
 | 1047 | U+1F94C | 🥌 | :curling stone: |
 | <h3>game</h3>||||
-| 1048 | U+1F3AF | 🎯 | :bullseye: |
+game | | 1048 | U+1F3AF | 🎯 | :bullseye: |
 | 1049 | U+1FA80 | 🪀 | :yo-yo: |
 | 1050 | U+1FA81 | 🪁 | :kite: |
 | 1051 | U+1F3B1 | 🎱 | :pool 8 ball: |
@@ -1145,7 +1138,7 @@
 | 1069 | U+1F004 | 🀄 | :mahjong red dragon: |
 | 1070 | U+1F3B4 | 🎴 | :flower playing cards: |
 | <h3>arts & crafts</h3>||||
-| 1071 | U+1F3AD | 🎭 | :performing arts: |
+arts & crafts | | 1071 | U+1F3AD | 🎭 | :performing arts: |
 | 1072 | U+1F5BC | 🖼 | :framed picture: |
 | 1073 | U+1F3A8 | 🎨 | :artist palette: |
 | 1074 | U+1F9F5 | 🧵 | :thread: |
@@ -1153,8 +1146,8 @@
 | 1076 | U+1F9F6 | 🧶 | :yarn: |
 | 1077 | U+1FAA2 | 🪢 | :knot: |
 | <h3>Objects</h3>||||
-| <h3>clothing</h3>||||
-| 1078 | U+1F453 | 👓 | :glasses: |
+Objects | | <h3>clothing</h3>||||
+clothing | | 1078 | U+1F453 | 👓 | :glasses: |
 | 1079 | U+1F576 | 🕶 | :sunglasses: |
 | 1080 | U+1F97D | 🥽 | :goggles: |
 | 1081 | U+1F97C | 🥼 | :lab coat: |
@@ -1200,7 +1193,7 @@
 | 1121 | U+1F48D | 💍 | :ring: |
 | 1122 | U+1F48E | 💎 | :gem stone: |
 | <h3>sound</h3>||||
-| 1123 | U+1F507 | 🔇 | :muted speaker: |
+sound | | 1123 | U+1F507 | 🔇 | :muted speaker: |
 | 1124 | U+1F508 | 🔈 | :speaker low volume: |
 | 1125 | U+1F509 | 🔉 | :speaker medium volume: |
 | 1126 | U+1F50A | 🔊 | :speaker high volume: |
@@ -1210,7 +1203,7 @@
 | 1130 | U+1F514 | 🔔 | :bell: |
 | 1131 | U+1F515 | 🔕 | :bell with slash: |
 | <h3>music</h3>||||
-| 1132 | U+1F3BC | 🎼 | :musical score: |
+music | | 1132 | U+1F3BC | 🎼 | :musical score: |
 | 1133 | U+1F3B5 | 🎵 | :musical note: |
 | 1134 | U+1F3B6 | 🎶 | :musical notes: |
 | 1135 | U+1F399 | 🎙 | :studio microphone: |
@@ -1220,7 +1213,7 @@
 | 1139 | U+1F3A7 | 🎧 | :headphone: |
 | 1140 | U+1F4FB | 📻 | :radio: |
 | <h3>musical-instrument</h3>||||
-| 1141 | U+1F3B7 | 🎷 | :saxophone: |
+musical-instrument | | 1141 | U+1F3B7 | 🎷 | :saxophone: |
 | 1142 | U+1FA97 | 🪗 | :accordion: |
 | 1143 | U+1F3B8 | 🎸 | :guitar: |
 | 1144 | U+1F3B9 | 🎹 | :musical keyboard: |
@@ -1230,14 +1223,14 @@
 | 1148 | U+1F941 | 🥁 | :drum: |
 | 1149 | U+1FA98 | 🪘 | :long drum: |
 | <h3>phone</h3>||||
-| 1150 | U+1F4F1 | 📱 | :mobile phone: |
+phone | | 1150 | U+1F4F1 | 📱 | :mobile phone: |
 | 1151 | U+1F4F2 | 📲 | :mobile phone with arrow: |
 | 1152 | U+260E | ☎ | :telephone: |
 | 1153 | U+1F4DE | 📞 | :telephone receiver: |
 | 1154 | U+1F4DF | 📟 | :pager: |
 | 1155 | U+1F4E0 | 📠 | :fax machine: |
 | <h3>computer</h3>||||
-| 1156 | U+1F50B | 🔋 | :battery: |
+computer | | 1156 | U+1F50B | 🔋 | :battery: |
 | 1157 | U+1F50C | 🔌 | :electric plug: |
 | 1158 | U+1F4BB | 💻 | :laptop: |
 | 1159 | U+1F5A5 | 🖥 | :desktop computer: |
@@ -1251,7 +1244,7 @@
 | 1167 | U+1F4C0 | 📀 | :dvd: |
 | 1168 | U+1F9EE | 🧮 | :abacus: |
 | <h3>light & video</h3>||||
-| 1169 | U+1F3A5 | 🎥 | :movie camera: |
+light & video | | 1169 | U+1F3A5 | 🎥 | :movie camera: |
 | 1170 | U+1F39E | 🎞 | :film frames: |
 | 1171 | U+1F4FD | 📽 | :film projector: |
 | 1172 | U+1F3AC | 🎬 | :clapper board: |
@@ -1268,7 +1261,7 @@
 | 1183 | U+1F3EE | 🏮 | :red paper lantern: |
 | 1184 | U+1FA94 | 🪔 | :diya lamp: |
 | <h3>book-paper</h3>||||
-| 1185 | U+1F4D4 | 📔 | :notebook with decorative cover: |
+book-paper | | 1185 | U+1F4D4 | 📔 | :notebook with decorative cover: |
 | 1186 | U+1F4D5 | 📕 | :closed book: |
 | 1187 | U+1F4D6 | 📖 | :open book: |
 | 1188 | U+1F4D7 | 📗 | :green book: |
@@ -1286,7 +1279,7 @@
 | 1200 | U+1F516 | 🔖 | :bookmark: |
 | 1201 | U+1F3F7 | 🏷 | :label: |
 | <h3>money</h3>||||
-| 1202 | U+1F4B0 | 💰 | :money bag: |
+money | | 1202 | U+1F4B0 | 💰 | :money bag: |
 | 1203 | U+1FA99 | 🪙 | :coin: |
 | 1204 | U+1F4B4 | 💴 | :yen banknote: |
 | 1205 | U+1F4B5 | 💵 | :dollar banknote: |
@@ -1297,7 +1290,7 @@
 | 1210 | U+1F9FE | 🧾 | :receipt: |
 | 1211 | U+1F4B9 | 💹 | :chart increasing with yen: |
 | <h3>mail</h3>||||
-| 1212 | U+2709 | ✉ | :envelope: |
+mail | | 1212 | U+2709 | ✉ | :envelope: |
 | 1213 | U+1F4E7 | 📧 | :e-mail: |
 | 1214 | U+1F4E8 | 📨 | :incoming envelope: |
 | 1215 | U+1F4E9 | 📩 | :envelope with arrow: |
@@ -1311,7 +1304,7 @@
 | 1223 | U+1F4EE | 📮 | :postbox: |
 | 1224 | U+1F5F3 | 🗳 | :ballot box with ballot: |
 | <h3>writing</h3>||||
-| 1225 | U+270F | ✏ | :pencil: |
+writing | | 1225 | U+270F | ✏ | :pencil: |
 | 1226 | U+2712 | ✒ | :black nib: |
 | 1227 | U+1F58B | 🖋 | :fountain pen: |
 | 1228 | U+1F58A | 🖊 | :pen: |
@@ -1319,7 +1312,7 @@
 | 1230 | U+1F58D | 🖍 | :crayon: |
 | 1231 | U+1F4DD | 📝 | :memo: |
 | <h3>office</h3>||||
-| 1232 | U+1F4BC | 💼 | :briefcase: |
+office | | 1232 | U+1F4BC | 💼 | :briefcase: |
 | 1233 | U+1F4C1 | 📁 | :file folder: |
 | 1234 | U+1F4C2 | 📂 | :open file folder: |
 | 1235 | U+1F5C2 | 🗂 | :card index dividers: |
@@ -1343,14 +1336,14 @@
 | 1253 | U+1F5C4 | 🗄 | :file cabinet: |
 | 1254 | U+1F5D1 | 🗑 | :wastebasket: |
 | <h3>lock</h3>||||
-| 1255 | U+1F512 | 🔒 | :locked: |
+lock | | 1255 | U+1F512 | 🔒 | :locked: |
 | 1256 | U+1F513 | 🔓 | :unlocked: |
 | 1257 | U+1F50F | 🔏 | :locked with pen: |
 | 1258 | U+1F510 | 🔐 | :locked with key: |
 | 1259 | U+1F511 | 🔑 | :key: |
 | 1260 | U+1F5DD | 🗝 | :old key: |
 | <h3>tool</h3>||||
-| 1261 | U+1F528 | 🔨 | :hammer: |
+tool | | 1261 | U+1F528 | 🔨 | :hammer: |
 | 1262 | U+1FA93 | 🪓 | :axe: |
 | 1263 | U+26CF | ⛏ | :pick: |
 | 1264 | U+2692 | ⚒ | :hammer and pick: |
@@ -1376,7 +1369,7 @@
 | 1284 | U+1F9F2 | 🧲 | :magnet: |
 | 1285 | U+1FA9C | 🪜 | :ladder: |
 | <h3>science</h3>||||
-| 1286 | U+2697 | ⚗ | :alembic: |
+science | | 1286 | U+2697 | ⚗ | :alembic: |
 | 1287 | U+1F9EA | 🧪 | :test tube: |
 | 1288 | U+1F9EB | 🧫 | :petri dish: |
 | 1289 | U+1F9EC | 🧬 | :dna: |
@@ -1384,13 +1377,13 @@
 | 1291 | U+1F52D | 🔭 | :telescope: |
 | 1292 | U+1F4E1 | 📡 | :satellite antenna: |
 | <h3>medical</h3>||||
-| 1293 | U+1F489 | 💉 | :syringe: |
+medical | | 1293 | U+1F489 | 💉 | :syringe: |
 | 1294 | U+1FA78 | 🩸 | :drop of blood: |
 | 1295 | U+1F48A | 💊 | :pill: |
 | 1296 | U+1FA79 | 🩹 | :adhesive bandage: |
 | 1297 | U+1FA7A | 🩺 | :stethoscope: |
 | <h3>household</h3>||||
-| 1298 | U+1F6AA | 🚪 | :door: |
+household | | 1298 | U+1F6AA | 🚪 | :door: |
 | 1299 | U+1F6D7 | 🛗 | :elevator: |
 | 1300 | U+1FA9E | 🪞 | :mirror: |
 | 1301 | U+1FA9F | 🪟 | :window: |
@@ -1415,15 +1408,15 @@
 | 1320 | U+1F9EF | 🧯 | :fire extinguisher: |
 | 1321 | U+1F6D2 | 🛒 | :shopping cart: |
 | <h3>other-object</h3>||||
-| 1322 | U+1F6AC | 🚬 | :cigarette: |
+other-object | | 1322 | U+1F6AC | 🚬 | :cigarette: |
 | 1323 | U+26B0 | ⚰ | :coffin: |
 | 1324 | U+1FAA6 | 🪦 | :headstone: |
 | 1325 | U+26B1 | ⚱ | :funeral urn: |
 | 1326 | U+1F5FF | 🗿 | :moai: |
 | 1327 | U+1FAA7 | 🪧 | :placard: |
 | <h3>Symbols</h3>||||
-| <h3>transport-sign</h3>||||
-| 1328 | U+1F3E7 | 🏧 | :ATM sign: |
+Symbols | | <h3>transport-sign</h3>||||
+transport-sign | | 1328 | U+1F3E7 | 🏧 | :ATM sign: |
 | 1329 | U+1F6AE | 🚮 | :litter in bin sign: |
 | 1330 | U+1F6B0 | 🚰 | :potable water: |
 | 1331 | U+267F | ♿ | :wheelchair symbol: |
@@ -1437,7 +1430,7 @@
 | 1339 | U+1F6C4 | 🛄 | :baggage claim: |
 | 1340 | U+1F6C5 | 🛅 | :left luggage: |
 | <h3>warning</h3>||||
-| 1341 | U+26A0 | ⚠ | :warning: |
+warning | | 1341 | U+26A0 | ⚠ | :warning: |
 | 1342 | U+1F6B8 | 🚸 | :children crossing: |
 | 1343 | U+26D4 | ⛔ | :no entry: |
 | 1344 | U+1F6AB | 🚫 | :prohibited: |
@@ -1451,7 +1444,7 @@
 | 1352 | U+2622 | ☢ | :radioactive: |
 | 1353 | U+2623 | ☣ | :biohazard: |
 | <h3>arrow</h3>||||
-| 1354 | U+2B06 | ⬆ | :up arrow: |
+arrow | | 1354 | U+2B06 | ⬆ | :up arrow: |
 | 1355 | U+2197 | ↗ | :up-right arrow: |
 | 1356 | U+27A1 | ➡ | :right arrow: |
 | 1357 | U+2198 | ↘ | :down-right arrow: |
@@ -1473,7 +1466,7 @@
 | 1373 | U+1F51C | 🔜 | :SOON arrow: |
 | 1374 | U+1F51D | 🔝 | :TOP arrow: |
 | <h3>religion</h3>||||
-| 1375 | U+1F6D0 | 🛐 | :place of worship: |
+religion | | 1375 | U+1F6D0 | 🛐 | :place of worship: |
 | 1376 | U+269B | ⚛ | :atom symbol: |
 | 1377 | U+1F549 | 🕉 | :om: |
 | 1378 | U+2721 | ✡ | :star of David: |
@@ -1486,7 +1479,7 @@
 | 1385 | U+1F54E | 🕎 | :menorah: |
 | 1386 | U+1F52F | 🔯 | :dotted six-pointed star: |
 | <h3>zodiac</h3>||||
-| 1387 | U+2648 | ♈ | :Aries: |
+zodiac | | 1387 | U+2648 | ♈ | :Aries: |
 | 1388 | U+2649 | ♉ | :Taurus: |
 | 1389 | U+264A | ♊ | :Gemini: |
 | 1390 | U+264B | ♋ | :Cancer: |
@@ -1500,7 +1493,7 @@
 | 1398 | U+2653 | ♓ | :Pisces: |
 | 1399 | U+26CE | ⛎ | :Ophiuchus: |
 | <h3>av-symbol</h3>||||
-| 1400 | U+1F500 | 🔀 | :shuffle tracks button: |
+av-symbol | | 1400 | U+1F500 | 🔀 | :shuffle tracks button: |
 | 1401 | U+1F501 | 🔁 | :repeat button: |
 | 1402 | U+1F502 | 🔂 | :repeat single button: |
 | 1403 | U+25B6 | ▶ | :play button: |
@@ -1525,17 +1518,17 @@
 | 1422 | U+1F4F3 | 📳 | :vibration mode: |
 | 1423 | U+1F4F4 | 📴 | :mobile phone off: |
 | <h3>gender</h3>||||
-| 1424 | U+2640 | ♀ | :female sign: |
+gender | | 1424 | U+2640 | ♀ | :female sign: |
 | 1425 | U+2642 | ♂ | :male sign: |
 | 1426 | U+26A7 | ⚧ | :transgender symbol: |
 | <h3>math</h3>||||
-| 1427 | U+2716 | ✖ | :multiply: |
+math | | 1427 | U+2716 | ✖ | :multiply: |
 | 1428 | U+2795 | ➕ | :plus: |
 | 1429 | U+2796 | ➖ | :minus: |
 | 1430 | U+2797 | ➗ | :divide: |
 | 1431 | U+267E | ♾ | :infinity: |
 | <h3>punctuation</h3>||||
-| 1432 | U+203C | ‼ | :double exclamation mark: |
+punctuation | | 1432 | U+203C | ‼ | :double exclamation mark: |
 | 1433 | U+2049 | ⁉ | :exclamation question mark: |
 | 1434 | U+2753 | ❓ | :red question mark: |
 | 1435 | U+2754 | ❔ | :white question mark: |
@@ -1543,10 +1536,10 @@
 | 1437 | U+2757 | ❗ | :red exclamation mark: |
 | 1438 | U+3030 | 〰 | :wavy dash: |
 | <h3>currency</h3>||||
-| 1439 | U+1F4B1 | 💱 | :currency exchange: |
+currency | | 1439 | U+1F4B1 | 💱 | :currency exchange: |
 | 1440 | U+1F4B2 | 💲 | :heavy dollar sign: |
 | <h3>other-symbol</h3>||||
-| 1441 | U+2695 | ⚕ | :medical symbol: |
+other-symbol | | 1441 | U+2695 | ⚕ | :medical symbol: |
 | 1442 | U+267B | ♻ | :recycling symbol: |
 | 1443 | U+269C | ⚜ | :fleur-de-lis: |
 | 1444 | U+1F531 | 🔱 | :trident emblem: |
@@ -1568,7 +1561,7 @@
 | 1460 | U+00AE | ® | :registered: |
 | 1461 | U+2122 | ™ | :trade mark: |
 | <h3>keycap</h3>||||
-| 1462 | U+0023 U+FE0F U+20E3 | #️⃣ | keycap: # |
+keycap | | 1462 | U+0023 U+FE0F U+20E3 | #️⃣ | keycap: # |
 | 1463 | U+002A U+FE0F U+20E3 | *️⃣ | keycap: * |
 | 1464 | U+0030 U+FE0F U+20E3 | 0️⃣ | keycap: 0 |
 | 1465 | U+0031 U+FE0F U+20E3 | 1️⃣ | keycap: 1 |
@@ -1582,7 +1575,7 @@
 | 1473 | U+0039 U+FE0F U+20E3 | 9️⃣ | keycap: 9 |
 | 1474 | U+1F51F | 🔟 | keycap: 10 |
 | <h3>alphanum</h3>||||
-| 1475 | U+1F520 | 🔠 | :input latin uppercase: |
+alphanum | | 1475 | U+1F520 | 🔠 | :input latin uppercase: |
 | 1476 | U+1F521 | 🔡 | :input latin lowercase: |
 | 1477 | U+1F522 | 🔢 | :input numbers: |
 | 1478 | U+1F523 | 🔣 | :input symbols: |
@@ -1622,7 +1615,7 @@
 | 1512 | U+1F23A | 🈺 | :Japanese “open for business” button: |
 | 1513 | U+1F235 | 🈵 | :Japanese “no vacancy” button: |
 | <h3>geometric</h3>||||
-| 1514 | U+1F534 | 🔴 | :red circle: |
+geometric | | 1514 | U+1F534 | 🔴 | :red circle: |
 | 1515 | U+1F7E0 | 🟠 | :orange circle: |
 | 1516 | U+1F7E1 | 🟡 | :yellow circle: |
 | 1517 | U+1F7E2 | 🟢 | :green circle: |
@@ -1657,8 +1650,8 @@
 | 1546 | U+1F533 | 🔳 | :white square button: |
 | 1547 | U+1F532 | 🔲 | :black square button: |
 | <h3>Flags</h3>||||
-| <h3>flag</h3>||||
-| 1548 | U+1F3C1 | 🏁 | :chequered flag: |
+Flags | | <h3>flag</h3>||||
+flag | | 1548 | U+1F3C1 | 🏁 | :chequered flag: |
 | 1549 | U+1F6A9 | 🚩 | :triangular flag: |
 | 1550 | U+1F38C | 🎌 | :crossed flags: |
 | 1551 | U+1F3F4 | 🏴 | :black flag: |
@@ -1667,7 +1660,7 @@
 | 1554 | U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F | 🏳️‍⚧️ | :transgender flag: |
 | 1555 | U+1F3F4 U+200D U+2620 U+FE0F | 🏴‍☠️ | :pirate flag: |
 | <h3>country-flag</h3>||||
-| 1556 | U+1F1E6 U+1F1E8 | 🇦🇨 | flag: Ascension Island |
+country-flag | | 1556 | U+1F1E6 U+1F1E8 | 🇦🇨 | flag: Ascension Island |
 | 1557 | U+1F1E6 U+1F1E9 | 🇦🇩 | flag: Andorra |
 | 1558 | U+1F1E6 U+1F1EA | 🇦🇪 | flag: United Arab Emirates |
 | 1559 | U+1F1E6 U+1F1EB | 🇦🇫 | flag: Afghanistan |
@@ -1926,6 +1919,6 @@
 | 1812 | U+1F1FF U+1F1F2 | 🇿🇲 | flag: Zambia |
 | 1813 | U+1F1FF U+1F1FC | 🇿🇼 | flag: Zimbabwe |
 | <h3>subdivision-flag</h3>||||
-| 1814 | U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | flag: England |
+subdivision-flag | | 1814 | U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | flag: England |
 | 1815 | U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | flag: Scotland |
 | 1816 | U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | flag: Wales |
