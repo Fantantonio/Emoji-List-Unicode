@@ -9,6 +9,8 @@ Upcoming Version: 14.0
 
 See [full-emoji-modifiers](full-emoji-modifiers.md) page to get all emoji with skin-tones.
 
+See [json/full-emoji](json/full-emoji.json) and [json/full-emoji-modifiers](json/full-emoji-modifiers.json) if you need all this data as json.
+
 ---
 
 <br>
