@@ -4,6 +4,7 @@
 
 
 
+
 <h3>Smileys & Emotion</h3><h5>face-smiling</h5><br>
 
 | Number | Code | Emoji | CLDR Short Name |
@@ -330,26 +331,26 @@
 | 210 | U+1F466 | 👦 | `:boy:` |
 | 211 | U+1F467 | 👧 | `:girl:` |
 | 212 | U+1F9D1 | 🧑 | `:person:` |
-| 213 | U+1F471 | 👱 | person: blond hair |
+| 213 | U+1F471 | 👱 | `:person: blond hair:` |
 | 214 | U+1F468 | 👨 | `:man:` |
-| 215 | U+1F9D4 | 🧔 | person: beard |
-| 216 | U+1F9D4 U+200D U+2642 U+FE0F | 🧔‍♂️ | man: beard |
-| 217 | U+1F9D4 U+200D U+2640 U+FE0F | 🧔‍♀️ | woman: beard |
-| 218 | U+1F468 U+200D U+1F9B0 | 👨‍🦰 | man: red hair |
-| 219 | U+1F468 U+200D U+1F9B1 | 👨‍🦱 | man: curly hair |
-| 220 | U+1F468 U+200D U+1F9B3 | 👨‍🦳 | man: white hair |
-| 221 | U+1F468 U+200D U+1F9B2 | 👨‍🦲 | man: bald |
+| 215 | U+1F9D4 | 🧔 | `:person: beard:` |
+| 216 | U+1F9D4 U+200D U+2642 U+FE0F | 🧔‍♂️ | `:man: beard:` |
+| 217 | U+1F9D4 U+200D U+2640 U+FE0F | 🧔‍♀️ | `:woman: beard:` |
+| 218 | U+1F468 U+200D U+1F9B0 | 👨‍🦰 | `:man: red hair:` |
+| 219 | U+1F468 U+200D U+1F9B1 | 👨‍🦱 | `:man: curly hair:` |
+| 220 | U+1F468 U+200D U+1F9B3 | 👨‍🦳 | `:man: white hair:` |
+| 221 | U+1F468 U+200D U+1F9B2 | 👨‍🦲 | `:man: bald:` |
 | 222 | U+1F469 | 👩 | `:woman:` |
-| 223 | U+1F469 U+200D U+1F9B0 | 👩‍🦰 | woman: red hair |
-| 224 | U+1F9D1 U+200D U+1F9B0 | 🧑‍🦰 | person: red hair |
-| 225 | U+1F469 U+200D U+1F9B1 | 👩‍🦱 | woman: curly hair |
-| 226 | U+1F9D1 U+200D U+1F9B1 | 🧑‍🦱 | person: curly hair |
-| 227 | U+1F469 U+200D U+1F9B3 | 👩‍🦳 | woman: white hair |
-| 228 | U+1F9D1 U+200D U+1F9B3 | 🧑‍🦳 | person: white hair |
-| 229 | U+1F469 U+200D U+1F9B2 | 👩‍🦲 | woman: bald |
-| 230 | U+1F9D1 U+200D U+1F9B2 | 🧑‍🦲 | person: bald |
-| 231 | U+1F471 U+200D U+2640 U+FE0F | 👱‍♀️ | woman: blond hair |
-| 232 | U+1F471 U+200D U+2642 U+FE0F | 👱‍♂️ | man: blond hair |
+| 223 | U+1F469 U+200D U+1F9B0 | 👩‍🦰 | `:woman: red hair:` |
+| 224 | U+1F9D1 U+200D U+1F9B0 | 🧑‍🦰 | `:person: red hair:` |
+| 225 | U+1F469 U+200D U+1F9B1 | 👩‍🦱 | `:woman: curly hair:` |
+| 226 | U+1F9D1 U+200D U+1F9B1 | 🧑‍🦱 | `:person: curly hair:` |
+| 227 | U+1F469 U+200D U+1F9B3 | 👩‍🦳 | `:woman: white hair:` |
+| 228 | U+1F9D1 U+200D U+1F9B3 | 🧑‍🦳 | `:person: white hair:` |
+| 229 | U+1F469 U+200D U+1F9B2 | 👩‍🦲 | `:woman: bald:` |
+| 230 | U+1F9D1 U+200D U+1F9B2 | 🧑‍🦲 | `:person: bald:` |
+| 231 | U+1F471 U+200D U+2640 U+FE0F | 👱‍♀️ | `:woman: blond hair:` |
+| 232 | U+1F471 U+200D U+2642 U+FE0F | 👱‍♂️ | `:man: blond hair:` |
 | 233 | U+1F9D3 | 🧓 | `:older person:` |
 | 234 | U+1F474 | 👴 | `:old man:` |
 | 235 | U+1F475 | 👵 | `:old woman:` |
@@ -620,39 +621,39 @@
 | 465 | U+1F46B | 👫 | `:woman and man holding hands:` |
 | 466 | U+1F46C | 👬 | `:men holding hands:` |
 | 467 | U+1F48F | 💏 | `:kiss:` |
-| 468 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 | 👩‍❤️‍💋‍👨 | kiss: woman, man |
-| 469 | U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 | 👨‍❤️‍💋‍👨 | kiss: man, man |
-| 470 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 | 👩‍❤️‍💋‍👩 | kiss: woman, woman |
+| 468 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 | 👩‍❤️‍💋‍👨 | `:kiss: woman, man:` |
+| 469 | U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468 | 👨‍❤️‍💋‍👨 | `:kiss: man, man:` |
+| 470 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469 | 👩‍❤️‍💋‍👩 | `:kiss: woman, woman:` |
 | 471 | U+1F491 | 💑 | `:couple with heart:` |
-| 472 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468 | 👩‍❤️‍👨 | couple with heart: woman, man |
-| 473 | U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468 | 👨‍❤️‍👨 | couple with heart: man, man |
-| 474 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469 | 👩‍❤️‍👩 | couple with heart: woman, woman |
+| 472 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468 | 👩‍❤️‍👨 | `:couple with heart: woman, man:` |
+| 473 | U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468 | 👨‍❤️‍👨 | `:couple with heart: man, man:` |
+| 474 | U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469 | 👩‍❤️‍👩 | `:couple with heart: woman, woman:` |
 | 475 | U+1F46A | 👪 | `:family:` |
-| 476 | U+1F468 U+200D U+1F469 U+200D U+1F466 | 👨‍👩‍👦 | family: man, woman, boy |
-| 477 | U+1F468 U+200D U+1F469 U+200D U+1F467 | 👨‍👩‍👧 | family: man, woman, girl |
-| 478 | U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466 | 👨‍👩‍👧‍👦 | family: man, woman, girl, boy |
-| 479 | U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466 | 👨‍👩‍👦‍👦 | family: man, woman, boy, boy |
-| 480 | U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467 | 👨‍👩‍👧‍👧 | family: man, woman, girl, girl |
-| 481 | U+1F468 U+200D U+1F468 U+200D U+1F466 | 👨‍👨‍👦 | family: man, man, boy |
-| 482 | U+1F468 U+200D U+1F468 U+200D U+1F467 | 👨‍👨‍👧 | family: man, man, girl |
-| 483 | U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466 | 👨‍👨‍👧‍👦 | family: man, man, girl, boy |
-| 484 | U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466 | 👨‍👨‍👦‍👦 | family: man, man, boy, boy |
-| 485 | U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467 | 👨‍👨‍👧‍👧 | family: man, man, girl, girl |
-| 486 | U+1F469 U+200D U+1F469 U+200D U+1F466 | 👩‍👩‍👦 | family: woman, woman, boy |
-| 487 | U+1F469 U+200D U+1F469 U+200D U+1F467 | 👩‍👩‍👧 | family: woman, woman, girl |
-| 488 | U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466 | 👩‍👩‍👧‍👦 | family: woman, woman, girl, boy |
-| 489 | U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466 | 👩‍👩‍👦‍👦 | family: woman, woman, boy, boy |
-| 490 | U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467 | 👩‍👩‍👧‍👧 | family: woman, woman, girl, girl |
-| 491 | U+1F468 U+200D U+1F466 | 👨‍👦 | family: man, boy |
-| 492 | U+1F468 U+200D U+1F466 U+200D U+1F466 | 👨‍👦‍👦 | family: man, boy, boy |
-| 493 | U+1F468 U+200D U+1F467 | 👨‍👧 | family: man, girl |
-| 494 | U+1F468 U+200D U+1F467 U+200D U+1F466 | 👨‍👧‍👦 | family: man, girl, boy |
-| 495 | U+1F468 U+200D U+1F467 U+200D U+1F467 | 👨‍👧‍👧 | family: man, girl, girl |
-| 496 | U+1F469 U+200D U+1F466 | 👩‍👦 | family: woman, boy |
-| 497 | U+1F469 U+200D U+1F466 U+200D U+1F466 | 👩‍👦‍👦 | family: woman, boy, boy |
-| 498 | U+1F469 U+200D U+1F467 | 👩‍👧 | family: woman, girl |
-| 499 | U+1F469 U+200D U+1F467 U+200D U+1F466 | 👩‍👧‍👦 | family: woman, girl, boy |
-| 500 | U+1F469 U+200D U+1F467 U+200D U+1F467 | 👩‍👧‍👧 | family: woman, girl, girl |
+| 476 | U+1F468 U+200D U+1F469 U+200D U+1F466 | 👨‍👩‍👦 | `:family: man, woman, boy:` |
+| 477 | U+1F468 U+200D U+1F469 U+200D U+1F467 | 👨‍👩‍👧 | `:family: man, woman, girl:` |
+| 478 | U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466 | 👨‍👩‍👧‍👦 | `:family: man, woman, girl, boy:` |
+| 479 | U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466 | 👨‍👩‍👦‍👦 | `:family: man, woman, boy, boy:` |
+| 480 | U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467 | 👨‍👩‍👧‍👧 | `:family: man, woman, girl, girl:` |
+| 481 | U+1F468 U+200D U+1F468 U+200D U+1F466 | 👨‍👨‍👦 | `:family: man, man, boy:` |
+| 482 | U+1F468 U+200D U+1F468 U+200D U+1F467 | 👨‍👨‍👧 | `:family: man, man, girl:` |
+| 483 | U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466 | 👨‍👨‍👧‍👦 | `:family: man, man, girl, boy:` |
+| 484 | U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466 | 👨‍👨‍👦‍👦 | `:family: man, man, boy, boy:` |
+| 485 | U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467 | 👨‍👨‍👧‍👧 | `:family: man, man, girl, girl:` |
+| 486 | U+1F469 U+200D U+1F469 U+200D U+1F466 | 👩‍👩‍👦 | `:family: woman, woman, boy:` |
+| 487 | U+1F469 U+200D U+1F469 U+200D U+1F467 | 👩‍👩‍👧 | `:family: woman, woman, girl:` |
+| 488 | U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466 | 👩‍👩‍👧‍👦 | `:family: woman, woman, girl, boy:` |
+| 489 | U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466 | 👩‍👩‍👦‍👦 | `:family: woman, woman, boy, boy:` |
+| 490 | U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467 | 👩‍👩‍👧‍👧 | `:family: woman, woman, girl, girl:` |
+| 491 | U+1F468 U+200D U+1F466 | 👨‍👦 | `:family: man, boy:` |
+| 492 | U+1F468 U+200D U+1F466 U+200D U+1F466 | 👨‍👦‍👦 | `:family: man, boy, boy:` |
+| 493 | U+1F468 U+200D U+1F467 | 👨‍👧 | `:family: man, girl:` |
+| 494 | U+1F468 U+200D U+1F467 U+200D U+1F466 | 👨‍👧‍👦 | `:family: man, girl, boy:` |
+| 495 | U+1F468 U+200D U+1F467 U+200D U+1F467 | 👨‍👧‍👧 | `:family: man, girl, girl:` |
+| 496 | U+1F469 U+200D U+1F466 | 👩‍👦 | `:family: woman, boy:` |
+| 497 | U+1F469 U+200D U+1F466 U+200D U+1F466 | 👩‍👦‍👦 | `:family: woman, boy, boy:` |
+| 498 | U+1F469 U+200D U+1F467 | 👩‍👧 | `:family: woman, girl:` |
+| 499 | U+1F469 U+200D U+1F467 U+200D U+1F466 | 👩‍👧‍👦 | `:family: woman, girl, boy:` |
+| 500 | U+1F469 U+200D U+1F467 U+200D U+1F467 | 👩‍👧‍👧 | `:family: woman, girl, girl:` |
 
 <h3>person-symbol</h3>
 
@@ -1934,19 +1935,19 @@
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
-| 1462 | U+0023 U+FE0F U+20E3 | #️⃣ | keycap: # |
-| 1463 | U+002A U+FE0F U+20E3 | *️⃣ | keycap: * |
-| 1464 | U+0030 U+FE0F U+20E3 | 0️⃣ | keycap: 0 |
-| 1465 | U+0031 U+FE0F U+20E3 | 1️⃣ | keycap: 1 |
-| 1466 | U+0032 U+FE0F U+20E3 | 2️⃣ | keycap: 2 |
-| 1467 | U+0033 U+FE0F U+20E3 | 3️⃣ | keycap: 3 |
-| 1468 | U+0034 U+FE0F U+20E3 | 4️⃣ | keycap: 4 |
-| 1469 | U+0035 U+FE0F U+20E3 | 5️⃣ | keycap: 5 |
-| 1470 | U+0036 U+FE0F U+20E3 | 6️⃣ | keycap: 6 |
-| 1471 | U+0037 U+FE0F U+20E3 | 7️⃣ | keycap: 7 |
-| 1472 | U+0038 U+FE0F U+20E3 | 8️⃣ | keycap: 8 |
-| 1473 | U+0039 U+FE0F U+20E3 | 9️⃣ | keycap: 9 |
-| 1474 | U+1F51F | 🔟 | keycap: 10 |
+| 1462 | U+0023 U+FE0F U+20E3 | #️⃣ | `:keycap: #:` |
+| 1463 | U+002A U+FE0F U+20E3 | *️⃣ | `:keycap: *:` |
+| 1464 | U+0030 U+FE0F U+20E3 | 0️⃣ | `:keycap: 0:` |
+| 1465 | U+0031 U+FE0F U+20E3 | 1️⃣ | `:keycap: 1:` |
+| 1466 | U+0032 U+FE0F U+20E3 | 2️⃣ | `:keycap: 2:` |
+| 1467 | U+0033 U+FE0F U+20E3 | 3️⃣ | `:keycap: 3:` |
+| 1468 | U+0034 U+FE0F U+20E3 | 4️⃣ | `:keycap: 4:` |
+| 1469 | U+0035 U+FE0F U+20E3 | 5️⃣ | `:keycap: 5:` |
+| 1470 | U+0036 U+FE0F U+20E3 | 6️⃣ | `:keycap: 6:` |
+| 1471 | U+0037 U+FE0F U+20E3 | 7️⃣ | `:keycap: 7:` |
+| 1472 | U+0038 U+FE0F U+20E3 | 8️⃣ | `:keycap: 8:` |
+| 1473 | U+0039 U+FE0F U+20E3 | 9️⃣ | `:keycap: 9:` |
+| 1474 | U+1F51F | 🔟 | `:keycap: 10:` |
 
 <h3>alphanum</h3>
 
@@ -2048,269 +2049,269 @@
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
-| 1556 | U+1F1E6 U+1F1E8 | 🇦🇨 | flag: Ascension Island |
-| 1557 | U+1F1E6 U+1F1E9 | 🇦🇩 | flag: Andorra |
-| 1558 | U+1F1E6 U+1F1EA | 🇦🇪 | flag: United Arab Emirates |
-| 1559 | U+1F1E6 U+1F1EB | 🇦🇫 | flag: Afghanistan |
-| 1560 | U+1F1E6 U+1F1EC | 🇦🇬 | flag: Antigua & Barbuda |
-| 1561 | U+1F1E6 U+1F1EE | 🇦🇮 | flag: Anguilla |
-| 1562 | U+1F1E6 U+1F1F1 | 🇦🇱 | flag: Albania |
-| 1563 | U+1F1E6 U+1F1F2 | 🇦🇲 | flag: Armenia |
-| 1564 | U+1F1E6 U+1F1F4 | 🇦🇴 | flag: Angola |
-| 1565 | U+1F1E6 U+1F1F6 | 🇦🇶 | flag: Antarctica |
-| 1566 | U+1F1E6 U+1F1F7 | 🇦🇷 | flag: Argentina |
-| 1567 | U+1F1E6 U+1F1F8 | 🇦🇸 | flag: American Samoa |
-| 1568 | U+1F1E6 U+1F1F9 | 🇦🇹 | flag: Austria |
-| 1569 | U+1F1E6 U+1F1FA | 🇦🇺 | flag: Australia |
-| 1570 | U+1F1E6 U+1F1FC | 🇦🇼 | flag: Aruba |
-| 1571 | U+1F1E6 U+1F1FD | 🇦🇽 | flag: Åland Islands |
-| 1572 | U+1F1E6 U+1F1FF | 🇦🇿 | flag: Azerbaijan |
-| 1573 | U+1F1E7 U+1F1E6 | 🇧🇦 | flag: Bosnia & Herzegovina |
-| 1574 | U+1F1E7 U+1F1E7 | 🇧🇧 | flag: Barbados |
-| 1575 | U+1F1E7 U+1F1E9 | 🇧🇩 | flag: Bangladesh |
-| 1576 | U+1F1E7 U+1F1EA | 🇧🇪 | flag: Belgium |
-| 1577 | U+1F1E7 U+1F1EB | 🇧🇫 | flag: Burkina Faso |
-| 1578 | U+1F1E7 U+1F1EC | 🇧🇬 | flag: Bulgaria |
-| 1579 | U+1F1E7 U+1F1ED | 🇧🇭 | flag: Bahrain |
-| 1580 | U+1F1E7 U+1F1EE | 🇧🇮 | flag: Burundi |
-| 1581 | U+1F1E7 U+1F1EF | 🇧🇯 | flag: Benin |
-| 1582 | U+1F1E7 U+1F1F1 | 🇧🇱 | flag: St. Barthélemy |
-| 1583 | U+1F1E7 U+1F1F2 | 🇧🇲 | flag: Bermuda |
-| 1584 | U+1F1E7 U+1F1F3 | 🇧🇳 | flag: Brunei |
-| 1585 | U+1F1E7 U+1F1F4 | 🇧🇴 | flag: Bolivia |
-| 1586 | U+1F1E7 U+1F1F6 | 🇧🇶 | flag: Caribbean Netherlands |
-| 1587 | U+1F1E7 U+1F1F7 | 🇧🇷 | flag: Brazil |
-| 1588 | U+1F1E7 U+1F1F8 | 🇧🇸 | flag: Bahamas |
-| 1589 | U+1F1E7 U+1F1F9 | 🇧🇹 | flag: Bhutan |
-| 1590 | U+1F1E7 U+1F1FB | 🇧🇻 | flag: Bouvet Island |
-| 1591 | U+1F1E7 U+1F1FC | 🇧🇼 | flag: Botswana |
-| 1592 | U+1F1E7 U+1F1FE | 🇧🇾 | flag: Belarus |
-| 1593 | U+1F1E7 U+1F1FF | 🇧🇿 | flag: Belize |
-| 1594 | U+1F1E8 U+1F1E6 | 🇨🇦 | flag: Canada |
-| 1595 | U+1F1E8 U+1F1E8 | 🇨🇨 | flag: Cocos (Keeling) Islands |
-| 1596 | U+1F1E8 U+1F1E9 | 🇨🇩 | flag: Congo - Kinshasa |
-| 1597 | U+1F1E8 U+1F1EB | 🇨🇫 | flag: Central African Republic |
-| 1598 | U+1F1E8 U+1F1EC | 🇨🇬 | flag: Congo - Brazzaville |
-| 1599 | U+1F1E8 U+1F1ED | 🇨🇭 | flag: Switzerland |
-| 1600 | U+1F1E8 U+1F1EE | 🇨🇮 | flag: Côte d’Ivoire |
-| 1601 | U+1F1E8 U+1F1F0 | 🇨🇰 | flag: Cook Islands |
-| 1602 | U+1F1E8 U+1F1F1 | 🇨🇱 | flag: Chile |
-| 1603 | U+1F1E8 U+1F1F2 | 🇨🇲 | flag: Cameroon |
-| 1604 | U+1F1E8 U+1F1F3 | 🇨🇳 | flag: China |
-| 1605 | U+1F1E8 U+1F1F4 | 🇨🇴 | flag: Colombia |
-| 1606 | U+1F1E8 U+1F1F5 | 🇨🇵 | flag: Clipperton Island |
-| 1607 | U+1F1E8 U+1F1F7 | 🇨🇷 | flag: Costa Rica |
-| 1608 | U+1F1E8 U+1F1FA | 🇨🇺 | flag: Cuba |
-| 1609 | U+1F1E8 U+1F1FB | 🇨🇻 | flag: Cape Verde |
-| 1610 | U+1F1E8 U+1F1FC | 🇨🇼 | flag: Curaçao |
-| 1611 | U+1F1E8 U+1F1FD | 🇨🇽 | flag: Christmas Island |
-| 1612 | U+1F1E8 U+1F1FE | 🇨🇾 | flag: Cyprus |
-| 1613 | U+1F1E8 U+1F1FF | 🇨🇿 | flag: Czechia |
-| 1614 | U+1F1E9 U+1F1EA | 🇩🇪 | flag: Germany |
-| 1615 | U+1F1E9 U+1F1EC | 🇩🇬 | flag: Diego Garcia |
-| 1616 | U+1F1E9 U+1F1EF | 🇩🇯 | flag: Djibouti |
-| 1617 | U+1F1E9 U+1F1F0 | 🇩🇰 | flag: Denmark |
-| 1618 | U+1F1E9 U+1F1F2 | 🇩🇲 | flag: Dominica |
-| 1619 | U+1F1E9 U+1F1F4 | 🇩🇴 | flag: Dominican Republic |
-| 1620 | U+1F1E9 U+1F1FF | 🇩🇿 | flag: Algeria |
-| 1621 | U+1F1EA U+1F1E6 | 🇪🇦 | flag: Ceuta & Melilla |
-| 1622 | U+1F1EA U+1F1E8 | 🇪🇨 | flag: Ecuador |
-| 1623 | U+1F1EA U+1F1EA | 🇪🇪 | flag: Estonia |
-| 1624 | U+1F1EA U+1F1EC | 🇪🇬 | flag: Egypt |
-| 1625 | U+1F1EA U+1F1ED | 🇪🇭 | flag: Western Sahara |
-| 1626 | U+1F1EA U+1F1F7 | 🇪🇷 | flag: Eritrea |
-| 1627 | U+1F1EA U+1F1F8 | 🇪🇸 | flag: Spain |
-| 1628 | U+1F1EA U+1F1F9 | 🇪🇹 | flag: Ethiopia |
-| 1629 | U+1F1EA U+1F1FA | 🇪🇺 | flag: European Union |
-| 1630 | U+1F1EB U+1F1EE | 🇫🇮 | flag: Finland |
-| 1631 | U+1F1EB U+1F1EF | 🇫🇯 | flag: Fiji |
-| 1632 | U+1F1EB U+1F1F0 | 🇫🇰 | flag: Falkland Islands |
-| 1633 | U+1F1EB U+1F1F2 | 🇫🇲 | flag: Micronesia |
-| 1634 | U+1F1EB U+1F1F4 | 🇫🇴 | flag: Faroe Islands |
-| 1635 | U+1F1EB U+1F1F7 | 🇫🇷 | flag: France |
-| 1636 | U+1F1EC U+1F1E6 | 🇬🇦 | flag: Gabon |
-| 1637 | U+1F1EC U+1F1E7 | 🇬🇧 | flag: United Kingdom |
-| 1638 | U+1F1EC U+1F1E9 | 🇬🇩 | flag: Grenada |
-| 1639 | U+1F1EC U+1F1EA | 🇬🇪 | flag: Georgia |
-| 1640 | U+1F1EC U+1F1EB | 🇬🇫 | flag: French Guiana |
-| 1641 | U+1F1EC U+1F1EC | 🇬🇬 | flag: Guernsey |
-| 1642 | U+1F1EC U+1F1ED | 🇬🇭 | flag: Ghana |
-| 1643 | U+1F1EC U+1F1EE | 🇬🇮 | flag: Gibraltar |
-| 1644 | U+1F1EC U+1F1F1 | 🇬🇱 | flag: Greenland |
-| 1645 | U+1F1EC U+1F1F2 | 🇬🇲 | flag: Gambia |
-| 1646 | U+1F1EC U+1F1F3 | 🇬🇳 | flag: Guinea |
-| 1647 | U+1F1EC U+1F1F5 | 🇬🇵 | flag: Guadeloupe |
-| 1648 | U+1F1EC U+1F1F6 | 🇬🇶 | flag: Equatorial Guinea |
-| 1649 | U+1F1EC U+1F1F7 | 🇬🇷 | flag: Greece |
-| 1650 | U+1F1EC U+1F1F8 | 🇬🇸 | flag: South Georgia & South Sandwich Islands |
-| 1651 | U+1F1EC U+1F1F9 | 🇬🇹 | flag: Guatemala |
-| 1652 | U+1F1EC U+1F1FA | 🇬🇺 | flag: Guam |
-| 1653 | U+1F1EC U+1F1FC | 🇬🇼 | flag: Guinea-Bissau |
-| 1654 | U+1F1EC U+1F1FE | 🇬🇾 | flag: Guyana |
-| 1655 | U+1F1ED U+1F1F0 | 🇭🇰 | flag: Hong Kong SAR China |
-| 1656 | U+1F1ED U+1F1F2 | 🇭🇲 | flag: Heard & McDonald Islands |
-| 1657 | U+1F1ED U+1F1F3 | 🇭🇳 | flag: Honduras |
-| 1658 | U+1F1ED U+1F1F7 | 🇭🇷 | flag: Croatia |
-| 1659 | U+1F1ED U+1F1F9 | 🇭🇹 | flag: Haiti |
-| 1660 | U+1F1ED U+1F1FA | 🇭🇺 | flag: Hungary |
-| 1661 | U+1F1EE U+1F1E8 | 🇮🇨 | flag: Canary Islands |
-| 1662 | U+1F1EE U+1F1E9 | 🇮🇩 | flag: Indonesia |
-| 1663 | U+1F1EE U+1F1EA | 🇮🇪 | flag: Ireland |
-| 1664 | U+1F1EE U+1F1F1 | 🇮🇱 | flag: Israel |
-| 1665 | U+1F1EE U+1F1F2 | 🇮🇲 | flag: Isle of Man |
-| 1666 | U+1F1EE U+1F1F3 | 🇮🇳 | flag: India |
-| 1667 | U+1F1EE U+1F1F4 | 🇮🇴 | flag: British Indian Ocean Territory |
-| 1668 | U+1F1EE U+1F1F6 | 🇮🇶 | flag: Iraq |
-| 1669 | U+1F1EE U+1F1F7 | 🇮🇷 | flag: Iran |
-| 1670 | U+1F1EE U+1F1F8 | 🇮🇸 | flag: Iceland |
-| 1671 | U+1F1EE U+1F1F9 | 🇮🇹 | flag: Italy |
-| 1672 | U+1F1EF U+1F1EA | 🇯🇪 | flag: Jersey |
-| 1673 | U+1F1EF U+1F1F2 | 🇯🇲 | flag: Jamaica |
-| 1674 | U+1F1EF U+1F1F4 | 🇯🇴 | flag: Jordan |
-| 1675 | U+1F1EF U+1F1F5 | 🇯🇵 | flag: Japan |
-| 1676 | U+1F1F0 U+1F1EA | 🇰🇪 | flag: Kenya |
-| 1677 | U+1F1F0 U+1F1EC | 🇰🇬 | flag: Kyrgyzstan |
-| 1678 | U+1F1F0 U+1F1ED | 🇰🇭 | flag: Cambodia |
-| 1679 | U+1F1F0 U+1F1EE | 🇰🇮 | flag: Kiribati |
-| 1680 | U+1F1F0 U+1F1F2 | 🇰🇲 | flag: Comoros |
-| 1681 | U+1F1F0 U+1F1F3 | 🇰🇳 | flag: St. Kitts & Nevis |
-| 1682 | U+1F1F0 U+1F1F5 | 🇰🇵 | flag: North Korea |
-| 1683 | U+1F1F0 U+1F1F7 | 🇰🇷 | flag: South Korea |
-| 1684 | U+1F1F0 U+1F1FC | 🇰🇼 | flag: Kuwait |
-| 1685 | U+1F1F0 U+1F1FE | 🇰🇾 | flag: Cayman Islands |
-| 1686 | U+1F1F0 U+1F1FF | 🇰🇿 | flag: Kazakhstan |
-| 1687 | U+1F1F1 U+1F1E6 | 🇱🇦 | flag: Laos |
-| 1688 | U+1F1F1 U+1F1E7 | 🇱🇧 | flag: Lebanon |
-| 1689 | U+1F1F1 U+1F1E8 | 🇱🇨 | flag: St. Lucia |
-| 1690 | U+1F1F1 U+1F1EE | 🇱🇮 | flag: Liechtenstein |
-| 1691 | U+1F1F1 U+1F1F0 | 🇱🇰 | flag: Sri Lanka |
-| 1692 | U+1F1F1 U+1F1F7 | 🇱🇷 | flag: Liberia |
-| 1693 | U+1F1F1 U+1F1F8 | 🇱🇸 | flag: Lesotho |
-| 1694 | U+1F1F1 U+1F1F9 | 🇱🇹 | flag: Lithuania |
-| 1695 | U+1F1F1 U+1F1FA | 🇱🇺 | flag: Luxembourg |
-| 1696 | U+1F1F1 U+1F1FB | 🇱🇻 | flag: Latvia |
-| 1697 | U+1F1F1 U+1F1FE | 🇱🇾 | flag: Libya |
-| 1698 | U+1F1F2 U+1F1E6 | 🇲🇦 | flag: Morocco |
-| 1699 | U+1F1F2 U+1F1E8 | 🇲🇨 | flag: Monaco |
-| 1700 | U+1F1F2 U+1F1E9 | 🇲🇩 | flag: Moldova |
-| 1701 | U+1F1F2 U+1F1EA | 🇲🇪 | flag: Montenegro |
-| 1702 | U+1F1F2 U+1F1EB | 🇲🇫 | flag: St. Martin |
-| 1703 | U+1F1F2 U+1F1EC | 🇲🇬 | flag: Madagascar |
-| 1704 | U+1F1F2 U+1F1ED | 🇲🇭 | flag: Marshall Islands |
-| 1705 | U+1F1F2 U+1F1F0 | 🇲🇰 | flag: North Macedonia |
-| 1706 | U+1F1F2 U+1F1F1 | 🇲🇱 | flag: Mali |
-| 1707 | U+1F1F2 U+1F1F2 | 🇲🇲 | flag: Myanmar (Burma) |
-| 1708 | U+1F1F2 U+1F1F3 | 🇲🇳 | flag: Mongolia |
-| 1709 | U+1F1F2 U+1F1F4 | 🇲🇴 | flag: Macao SAR China |
-| 1710 | U+1F1F2 U+1F1F5 | 🇲🇵 | flag: Northern Mariana Islands |
-| 1711 | U+1F1F2 U+1F1F6 | 🇲🇶 | flag: Martinique |
-| 1712 | U+1F1F2 U+1F1F7 | 🇲🇷 | flag: Mauritania |
-| 1713 | U+1F1F2 U+1F1F8 | 🇲🇸 | flag: Montserrat |
-| 1714 | U+1F1F2 U+1F1F9 | 🇲🇹 | flag: Malta |
-| 1715 | U+1F1F2 U+1F1FA | 🇲🇺 | flag: Mauritius |
-| 1716 | U+1F1F2 U+1F1FB | 🇲🇻 | flag: Maldives |
-| 1717 | U+1F1F2 U+1F1FC | 🇲🇼 | flag: Malawi |
-| 1718 | U+1F1F2 U+1F1FD | 🇲🇽 | flag: Mexico |
-| 1719 | U+1F1F2 U+1F1FE | 🇲🇾 | flag: Malaysia |
-| 1720 | U+1F1F2 U+1F1FF | 🇲🇿 | flag: Mozambique |
-| 1721 | U+1F1F3 U+1F1E6 | 🇳🇦 | flag: Namibia |
-| 1722 | U+1F1F3 U+1F1E8 | 🇳🇨 | flag: New Caledonia |
-| 1723 | U+1F1F3 U+1F1EA | 🇳🇪 | flag: Niger |
-| 1724 | U+1F1F3 U+1F1EB | 🇳🇫 | flag: Norfolk Island |
-| 1725 | U+1F1F3 U+1F1EC | 🇳🇬 | flag: Nigeria |
-| 1726 | U+1F1F3 U+1F1EE | 🇳🇮 | flag: Nicaragua |
-| 1727 | U+1F1F3 U+1F1F1 | 🇳🇱 | flag: Netherlands |
-| 1728 | U+1F1F3 U+1F1F4 | 🇳🇴 | flag: Norway |
-| 1729 | U+1F1F3 U+1F1F5 | 🇳🇵 | flag: Nepal |
-| 1730 | U+1F1F3 U+1F1F7 | 🇳🇷 | flag: Nauru |
-| 1731 | U+1F1F3 U+1F1FA | 🇳🇺 | flag: Niue |
-| 1732 | U+1F1F3 U+1F1FF | 🇳🇿 | flag: New Zealand |
-| 1733 | U+1F1F4 U+1F1F2 | 🇴🇲 | flag: Oman |
-| 1734 | U+1F1F5 U+1F1E6 | 🇵🇦 | flag: Panama |
-| 1735 | U+1F1F5 U+1F1EA | 🇵🇪 | flag: Peru |
-| 1736 | U+1F1F5 U+1F1EB | 🇵🇫 | flag: French Polynesia |
-| 1737 | U+1F1F5 U+1F1EC | 🇵🇬 | flag: Papua New Guinea |
-| 1738 | U+1F1F5 U+1F1ED | 🇵🇭 | flag: Philippines |
-| 1739 | U+1F1F5 U+1F1F0 | 🇵🇰 | flag: Pakistan |
-| 1740 | U+1F1F5 U+1F1F1 | 🇵🇱 | flag: Poland |
-| 1741 | U+1F1F5 U+1F1F2 | 🇵🇲 | flag: St. Pierre & Miquelon |
-| 1742 | U+1F1F5 U+1F1F3 | 🇵🇳 | flag: Pitcairn Islands |
-| 1743 | U+1F1F5 U+1F1F7 | 🇵🇷 | flag: Puerto Rico |
-| 1744 | U+1F1F5 U+1F1F8 | 🇵🇸 | flag: Palestinian Territories |
-| 1745 | U+1F1F5 U+1F1F9 | 🇵🇹 | flag: Portugal |
-| 1746 | U+1F1F5 U+1F1FC | 🇵🇼 | flag: Palau |
-| 1747 | U+1F1F5 U+1F1FE | 🇵🇾 | flag: Paraguay |
-| 1748 | U+1F1F6 U+1F1E6 | 🇶🇦 | flag: Qatar |
-| 1749 | U+1F1F7 U+1F1EA | 🇷🇪 | flag: Réunion |
-| 1750 | U+1F1F7 U+1F1F4 | 🇷🇴 | flag: Romania |
-| 1751 | U+1F1F7 U+1F1F8 | 🇷🇸 | flag: Serbia |
-| 1752 | U+1F1F7 U+1F1FA | 🇷🇺 | flag: Russia |
-| 1753 | U+1F1F7 U+1F1FC | 🇷🇼 | flag: Rwanda |
-| 1754 | U+1F1F8 U+1F1E6 | 🇸🇦 | flag: Saudi Arabia |
-| 1755 | U+1F1F8 U+1F1E7 | 🇸🇧 | flag: Solomon Islands |
-| 1756 | U+1F1F8 U+1F1E8 | 🇸🇨 | flag: Seychelles |
-| 1757 | U+1F1F8 U+1F1E9 | 🇸🇩 | flag: Sudan |
-| 1758 | U+1F1F8 U+1F1EA | 🇸🇪 | flag: Sweden |
-| 1759 | U+1F1F8 U+1F1EC | 🇸🇬 | flag: Singapore |
-| 1760 | U+1F1F8 U+1F1ED | 🇸🇭 | flag: St. Helena |
-| 1761 | U+1F1F8 U+1F1EE | 🇸🇮 | flag: Slovenia |
-| 1762 | U+1F1F8 U+1F1EF | 🇸🇯 | flag: Svalbard & Jan Mayen |
-| 1763 | U+1F1F8 U+1F1F0 | 🇸🇰 | flag: Slovakia |
-| 1764 | U+1F1F8 U+1F1F1 | 🇸🇱 | flag: Sierra Leone |
-| 1765 | U+1F1F8 U+1F1F2 | 🇸🇲 | flag: San Marino |
-| 1766 | U+1F1F8 U+1F1F3 | 🇸🇳 | flag: Senegal |
-| 1767 | U+1F1F8 U+1F1F4 | 🇸🇴 | flag: Somalia |
-| 1768 | U+1F1F8 U+1F1F7 | 🇸🇷 | flag: Suriname |
-| 1769 | U+1F1F8 U+1F1F8 | 🇸🇸 | flag: South Sudan |
-| 1770 | U+1F1F8 U+1F1F9 | 🇸🇹 | flag: São Tomé & Príncipe |
-| 1771 | U+1F1F8 U+1F1FB | 🇸🇻 | flag: El Salvador |
-| 1772 | U+1F1F8 U+1F1FD | 🇸🇽 | flag: Sint Maarten |
-| 1773 | U+1F1F8 U+1F1FE | 🇸🇾 | flag: Syria |
-| 1774 | U+1F1F8 U+1F1FF | 🇸🇿 | flag: Eswatini |
-| 1775 | U+1F1F9 U+1F1E6 | 🇹🇦 | flag: Tristan da Cunha |
-| 1776 | U+1F1F9 U+1F1E8 | 🇹🇨 | flag: Turks & Caicos Islands |
-| 1777 | U+1F1F9 U+1F1E9 | 🇹🇩 | flag: Chad |
-| 1778 | U+1F1F9 U+1F1EB | 🇹🇫 | flag: French Southern Territories |
-| 1779 | U+1F1F9 U+1F1EC | 🇹🇬 | flag: Togo |
-| 1780 | U+1F1F9 U+1F1ED | 🇹🇭 | flag: Thailand |
-| 1781 | U+1F1F9 U+1F1EF | 🇹🇯 | flag: Tajikistan |
-| 1782 | U+1F1F9 U+1F1F0 | 🇹🇰 | flag: Tokelau |
-| 1783 | U+1F1F9 U+1F1F1 | 🇹🇱 | flag: Timor-Leste |
-| 1784 | U+1F1F9 U+1F1F2 | 🇹🇲 | flag: Turkmenistan |
-| 1785 | U+1F1F9 U+1F1F3 | 🇹🇳 | flag: Tunisia |
-| 1786 | U+1F1F9 U+1F1F4 | 🇹🇴 | flag: Tonga |
-| 1787 | U+1F1F9 U+1F1F7 | 🇹🇷 | flag: Turkey |
-| 1788 | U+1F1F9 U+1F1F9 | 🇹🇹 | flag: Trinidad & Tobago |
-| 1789 | U+1F1F9 U+1F1FB | 🇹🇻 | flag: Tuvalu |
-| 1790 | U+1F1F9 U+1F1FC | 🇹🇼 | flag: Taiwan |
-| 1791 | U+1F1F9 U+1F1FF | 🇹🇿 | flag: Tanzania |
-| 1792 | U+1F1FA U+1F1E6 | 🇺🇦 | flag: Ukraine |
-| 1793 | U+1F1FA U+1F1EC | 🇺🇬 | flag: Uganda |
-| 1794 | U+1F1FA U+1F1F2 | 🇺🇲 | flag: U.S. Outlying Islands |
-| 1795 | U+1F1FA U+1F1F3 | 🇺🇳 | flag: United Nations |
-| 1796 | U+1F1FA U+1F1F8 | 🇺🇸 | flag: United States |
-| 1797 | U+1F1FA U+1F1FE | 🇺🇾 | flag: Uruguay |
-| 1798 | U+1F1FA U+1F1FF | 🇺🇿 | flag: Uzbekistan |
-| 1799 | U+1F1FB U+1F1E6 | 🇻🇦 | flag: Vatican City |
-| 1800 | U+1F1FB U+1F1E8 | 🇻🇨 | flag: St. Vincent & Grenadines |
-| 1801 | U+1F1FB U+1F1EA | 🇻🇪 | flag: Venezuela |
-| 1802 | U+1F1FB U+1F1EC | 🇻🇬 | flag: British Virgin Islands |
-| 1803 | U+1F1FB U+1F1EE | 🇻🇮 | flag: U.S. Virgin Islands |
-| 1804 | U+1F1FB U+1F1F3 | 🇻🇳 | flag: Vietnam |
-| 1805 | U+1F1FB U+1F1FA | 🇻🇺 | flag: Vanuatu |
-| 1806 | U+1F1FC U+1F1EB | 🇼🇫 | flag: Wallis & Futuna |
-| 1807 | U+1F1FC U+1F1F8 | 🇼🇸 | flag: Samoa |
-| 1808 | U+1F1FD U+1F1F0 | 🇽🇰 | flag: Kosovo |
-| 1809 | U+1F1FE U+1F1EA | 🇾🇪 | flag: Yemen |
-| 1810 | U+1F1FE U+1F1F9 | 🇾🇹 | flag: Mayotte |
-| 1811 | U+1F1FF U+1F1E6 | 🇿🇦 | flag: South Africa |
-| 1812 | U+1F1FF U+1F1F2 | 🇿🇲 | flag: Zambia |
-| 1813 | U+1F1FF U+1F1FC | 🇿🇼 | flag: Zimbabwe |
+| 1556 | U+1F1E6 U+1F1E8 | 🇦🇨 | `:flag: Ascension Island:` |
+| 1557 | U+1F1E6 U+1F1E9 | 🇦🇩 | `:flag: Andorra:` |
+| 1558 | U+1F1E6 U+1F1EA | 🇦🇪 | `:flag: United Arab Emirates:` |
+| 1559 | U+1F1E6 U+1F1EB | 🇦🇫 | `:flag: Afghanistan:` |
+| 1560 | U+1F1E6 U+1F1EC | 🇦🇬 | `:flag: Antigua & Barbuda:` |
+| 1561 | U+1F1E6 U+1F1EE | 🇦🇮 | `:flag: Anguilla:` |
+| 1562 | U+1F1E6 U+1F1F1 | 🇦🇱 | `:flag: Albania:` |
+| 1563 | U+1F1E6 U+1F1F2 | 🇦🇲 | `:flag: Armenia:` |
+| 1564 | U+1F1E6 U+1F1F4 | 🇦🇴 | `:flag: Angola:` |
+| 1565 | U+1F1E6 U+1F1F6 | 🇦🇶 | `:flag: Antarctica:` |
+| 1566 | U+1F1E6 U+1F1F7 | 🇦🇷 | `:flag: Argentina:` |
+| 1567 | U+1F1E6 U+1F1F8 | 🇦🇸 | `:flag: American Samoa:` |
+| 1568 | U+1F1E6 U+1F1F9 | 🇦🇹 | `:flag: Austria:` |
+| 1569 | U+1F1E6 U+1F1FA | 🇦🇺 | `:flag: Australia:` |
+| 1570 | U+1F1E6 U+1F1FC | 🇦🇼 | `:flag: Aruba:` |
+| 1571 | U+1F1E6 U+1F1FD | 🇦🇽 | `:flag: Åland Islands:` |
+| 1572 | U+1F1E6 U+1F1FF | 🇦🇿 | `:flag: Azerbaijan:` |
+| 1573 | U+1F1E7 U+1F1E6 | 🇧🇦 | `:flag: Bosnia & Herzegovina:` |
+| 1574 | U+1F1E7 U+1F1E7 | 🇧🇧 | `:flag: Barbados:` |
+| 1575 | U+1F1E7 U+1F1E9 | 🇧🇩 | `:flag: Bangladesh:` |
+| 1576 | U+1F1E7 U+1F1EA | 🇧🇪 | `:flag: Belgium:` |
+| 1577 | U+1F1E7 U+1F1EB | 🇧🇫 | `:flag: Burkina Faso:` |
+| 1578 | U+1F1E7 U+1F1EC | 🇧🇬 | `:flag: Bulgaria:` |
+| 1579 | U+1F1E7 U+1F1ED | 🇧🇭 | `:flag: Bahrain:` |
+| 1580 | U+1F1E7 U+1F1EE | 🇧🇮 | `:flag: Burundi:` |
+| 1581 | U+1F1E7 U+1F1EF | 🇧🇯 | `:flag: Benin:` |
+| 1582 | U+1F1E7 U+1F1F1 | 🇧🇱 | `:flag: St. Barthélemy:` |
+| 1583 | U+1F1E7 U+1F1F2 | 🇧🇲 | `:flag: Bermuda:` |
+| 1584 | U+1F1E7 U+1F1F3 | 🇧🇳 | `:flag: Brunei:` |
+| 1585 | U+1F1E7 U+1F1F4 | 🇧🇴 | `:flag: Bolivia:` |
+| 1586 | U+1F1E7 U+1F1F6 | 🇧🇶 | `:flag: Caribbean Netherlands:` |
+| 1587 | U+1F1E7 U+1F1F7 | 🇧🇷 | `:flag: Brazil:` |
+| 1588 | U+1F1E7 U+1F1F8 | 🇧🇸 | `:flag: Bahamas:` |
+| 1589 | U+1F1E7 U+1F1F9 | 🇧🇹 | `:flag: Bhutan:` |
+| 1590 | U+1F1E7 U+1F1FB | 🇧🇻 | `:flag: Bouvet Island:` |
+| 1591 | U+1F1E7 U+1F1FC | 🇧🇼 | `:flag: Botswana:` |
+| 1592 | U+1F1E7 U+1F1FE | 🇧🇾 | `:flag: Belarus:` |
+| 1593 | U+1F1E7 U+1F1FF | 🇧🇿 | `:flag: Belize:` |
+| 1594 | U+1F1E8 U+1F1E6 | 🇨🇦 | `:flag: Canada:` |
+| 1595 | U+1F1E8 U+1F1E8 | 🇨🇨 | `:flag: Cocos (Keeling) Islands:` |
+| 1596 | U+1F1E8 U+1F1E9 | 🇨🇩 | `:flag: Congo - Kinshasa:` |
+| 1597 | U+1F1E8 U+1F1EB | 🇨🇫 | `:flag: Central African Republic:` |
+| 1598 | U+1F1E8 U+1F1EC | 🇨🇬 | `:flag: Congo - Brazzaville:` |
+| 1599 | U+1F1E8 U+1F1ED | 🇨🇭 | `:flag: Switzerland:` |
+| 1600 | U+1F1E8 U+1F1EE | 🇨🇮 | `:flag: Côte d’Ivoire:` |
+| 1601 | U+1F1E8 U+1F1F0 | 🇨🇰 | `:flag: Cook Islands:` |
+| 1602 | U+1F1E8 U+1F1F1 | 🇨🇱 | `:flag: Chile:` |
+| 1603 | U+1F1E8 U+1F1F2 | 🇨🇲 | `:flag: Cameroon:` |
+| 1604 | U+1F1E8 U+1F1F3 | 🇨🇳 | `:flag: China:` |
+| 1605 | U+1F1E8 U+1F1F4 | 🇨🇴 | `:flag: Colombia:` |
+| 1606 | U+1F1E8 U+1F1F5 | 🇨🇵 | `:flag: Clipperton Island:` |
+| 1607 | U+1F1E8 U+1F1F7 | 🇨🇷 | `:flag: Costa Rica:` |
+| 1608 | U+1F1E8 U+1F1FA | 🇨🇺 | `:flag: Cuba:` |
+| 1609 | U+1F1E8 U+1F1FB | 🇨🇻 | `:flag: Cape Verde:` |
+| 1610 | U+1F1E8 U+1F1FC | 🇨🇼 | `:flag: Curaçao:` |
+| 1611 | U+1F1E8 U+1F1FD | 🇨🇽 | `:flag: Christmas Island:` |
+| 1612 | U+1F1E8 U+1F1FE | 🇨🇾 | `:flag: Cyprus:` |
+| 1613 | U+1F1E8 U+1F1FF | 🇨🇿 | `:flag: Czechia:` |
+| 1614 | U+1F1E9 U+1F1EA | 🇩🇪 | `:flag: Germany:` |
+| 1615 | U+1F1E9 U+1F1EC | 🇩🇬 | `:flag: Diego Garcia:` |
+| 1616 | U+1F1E9 U+1F1EF | 🇩🇯 | `:flag: Djibouti:` |
+| 1617 | U+1F1E9 U+1F1F0 | 🇩🇰 | `:flag: Denmark:` |
+| 1618 | U+1F1E9 U+1F1F2 | 🇩🇲 | `:flag: Dominica:` |
+| 1619 | U+1F1E9 U+1F1F4 | 🇩🇴 | `:flag: Dominican Republic:` |
+| 1620 | U+1F1E9 U+1F1FF | 🇩🇿 | `:flag: Algeria:` |
+| 1621 | U+1F1EA U+1F1E6 | 🇪🇦 | `:flag: Ceuta & Melilla:` |
+| 1622 | U+1F1EA U+1F1E8 | 🇪🇨 | `:flag: Ecuador:` |
+| 1623 | U+1F1EA U+1F1EA | 🇪🇪 | `:flag: Estonia:` |
+| 1624 | U+1F1EA U+1F1EC | 🇪🇬 | `:flag: Egypt:` |
+| 1625 | U+1F1EA U+1F1ED | 🇪🇭 | `:flag: Western Sahara:` |
+| 1626 | U+1F1EA U+1F1F7 | 🇪🇷 | `:flag: Eritrea:` |
+| 1627 | U+1F1EA U+1F1F8 | 🇪🇸 | `:flag: Spain:` |
+| 1628 | U+1F1EA U+1F1F9 | 🇪🇹 | `:flag: Ethiopia:` |
+| 1629 | U+1F1EA U+1F1FA | 🇪🇺 | `:flag: European Union:` |
+| 1630 | U+1F1EB U+1F1EE | 🇫🇮 | `:flag: Finland:` |
+| 1631 | U+1F1EB U+1F1EF | 🇫🇯 | `:flag: Fiji:` |
+| 1632 | U+1F1EB U+1F1F0 | 🇫🇰 | `:flag: Falkland Islands:` |
+| 1633 | U+1F1EB U+1F1F2 | 🇫🇲 | `:flag: Micronesia:` |
+| 1634 | U+1F1EB U+1F1F4 | 🇫🇴 | `:flag: Faroe Islands:` |
+| 1635 | U+1F1EB U+1F1F7 | 🇫🇷 | `:flag: France:` |
+| 1636 | U+1F1EC U+1F1E6 | 🇬🇦 | `:flag: Gabon:` |
+| 1637 | U+1F1EC U+1F1E7 | 🇬🇧 | `:flag: United Kingdom:` |
+| 1638 | U+1F1EC U+1F1E9 | 🇬🇩 | `:flag: Grenada:` |
+| 1639 | U+1F1EC U+1F1EA | 🇬🇪 | `:flag: Georgia:` |
+| 1640 | U+1F1EC U+1F1EB | 🇬🇫 | `:flag: French Guiana:` |
+| 1641 | U+1F1EC U+1F1EC | 🇬🇬 | `:flag: Guernsey:` |
+| 1642 | U+1F1EC U+1F1ED | 🇬🇭 | `:flag: Ghana:` |
+| 1643 | U+1F1EC U+1F1EE | 🇬🇮 | `:flag: Gibraltar:` |
+| 1644 | U+1F1EC U+1F1F1 | 🇬🇱 | `:flag: Greenland:` |
+| 1645 | U+1F1EC U+1F1F2 | 🇬🇲 | `:flag: Gambia:` |
+| 1646 | U+1F1EC U+1F1F3 | 🇬🇳 | `:flag: Guinea:` |
+| 1647 | U+1F1EC U+1F1F5 | 🇬🇵 | `:flag: Guadeloupe:` |
+| 1648 | U+1F1EC U+1F1F6 | 🇬🇶 | `:flag: Equatorial Guinea:` |
+| 1649 | U+1F1EC U+1F1F7 | 🇬🇷 | `:flag: Greece:` |
+| 1650 | U+1F1EC U+1F1F8 | 🇬🇸 | `:flag: South Georgia & South Sandwich Islands:` |
+| 1651 | U+1F1EC U+1F1F9 | 🇬🇹 | `:flag: Guatemala:` |
+| 1652 | U+1F1EC U+1F1FA | 🇬🇺 | `:flag: Guam:` |
+| 1653 | U+1F1EC U+1F1FC | 🇬🇼 | `:flag: Guinea-Bissau:` |
+| 1654 | U+1F1EC U+1F1FE | 🇬🇾 | `:flag: Guyana:` |
+| 1655 | U+1F1ED U+1F1F0 | 🇭🇰 | `:flag: Hong Kong SAR China:` |
+| 1656 | U+1F1ED U+1F1F2 | 🇭🇲 | `:flag: Heard & McDonald Islands:` |
+| 1657 | U+1F1ED U+1F1F3 | 🇭🇳 | `:flag: Honduras:` |
+| 1658 | U+1F1ED U+1F1F7 | 🇭🇷 | `:flag: Croatia:` |
+| 1659 | U+1F1ED U+1F1F9 | 🇭🇹 | `:flag: Haiti:` |
+| 1660 | U+1F1ED U+1F1FA | 🇭🇺 | `:flag: Hungary:` |
+| 1661 | U+1F1EE U+1F1E8 | 🇮🇨 | `:flag: Canary Islands:` |
+| 1662 | U+1F1EE U+1F1E9 | 🇮🇩 | `:flag: Indonesia:` |
+| 1663 | U+1F1EE U+1F1EA | 🇮🇪 | `:flag: Ireland:` |
+| 1664 | U+1F1EE U+1F1F1 | 🇮🇱 | `:flag: Israel:` |
+| 1665 | U+1F1EE U+1F1F2 | 🇮🇲 | `:flag: Isle of Man:` |
+| 1666 | U+1F1EE U+1F1F3 | 🇮🇳 | `:flag: India:` |
+| 1667 | U+1F1EE U+1F1F4 | 🇮🇴 | `:flag: British Indian Ocean Territory:` |
+| 1668 | U+1F1EE U+1F1F6 | 🇮🇶 | `:flag: Iraq:` |
+| 1669 | U+1F1EE U+1F1F7 | 🇮🇷 | `:flag: Iran:` |
+| 1670 | U+1F1EE U+1F1F8 | 🇮🇸 | `:flag: Iceland:` |
+| 1671 | U+1F1EE U+1F1F9 | 🇮🇹 | `:flag: Italy:` |
+| 1672 | U+1F1EF U+1F1EA | 🇯🇪 | `:flag: Jersey:` |
+| 1673 | U+1F1EF U+1F1F2 | 🇯🇲 | `:flag: Jamaica:` |
+| 1674 | U+1F1EF U+1F1F4 | 🇯🇴 | `:flag: Jordan:` |
+| 1675 | U+1F1EF U+1F1F5 | 🇯🇵 | `:flag: Japan:` |
+| 1676 | U+1F1F0 U+1F1EA | 🇰🇪 | `:flag: Kenya:` |
+| 1677 | U+1F1F0 U+1F1EC | 🇰🇬 | `:flag: Kyrgyzstan:` |
+| 1678 | U+1F1F0 U+1F1ED | 🇰🇭 | `:flag: Cambodia:` |
+| 1679 | U+1F1F0 U+1F1EE | 🇰🇮 | `:flag: Kiribati:` |
+| 1680 | U+1F1F0 U+1F1F2 | 🇰🇲 | `:flag: Comoros:` |
+| 1681 | U+1F1F0 U+1F1F3 | 🇰🇳 | `:flag: St. Kitts & Nevis:` |
+| 1682 | U+1F1F0 U+1F1F5 | 🇰🇵 | `:flag: North Korea:` |
+| 1683 | U+1F1F0 U+1F1F7 | 🇰🇷 | `:flag: South Korea:` |
+| 1684 | U+1F1F0 U+1F1FC | 🇰🇼 | `:flag: Kuwait:` |
+| 1685 | U+1F1F0 U+1F1FE | 🇰🇾 | `:flag: Cayman Islands:` |
+| 1686 | U+1F1F0 U+1F1FF | 🇰🇿 | `:flag: Kazakhstan:` |
+| 1687 | U+1F1F1 U+1F1E6 | 🇱🇦 | `:flag: Laos:` |
+| 1688 | U+1F1F1 U+1F1E7 | 🇱🇧 | `:flag: Lebanon:` |
+| 1689 | U+1F1F1 U+1F1E8 | 🇱🇨 | `:flag: St. Lucia:` |
+| 1690 | U+1F1F1 U+1F1EE | 🇱🇮 | `:flag: Liechtenstein:` |
+| 1691 | U+1F1F1 U+1F1F0 | 🇱🇰 | `:flag: Sri Lanka:` |
+| 1692 | U+1F1F1 U+1F1F7 | 🇱🇷 | `:flag: Liberia:` |
+| 1693 | U+1F1F1 U+1F1F8 | 🇱🇸 | `:flag: Lesotho:` |
+| 1694 | U+1F1F1 U+1F1F9 | 🇱🇹 | `:flag: Lithuania:` |
+| 1695 | U+1F1F1 U+1F1FA | 🇱🇺 | `:flag: Luxembourg:` |
+| 1696 | U+1F1F1 U+1F1FB | 🇱🇻 | `:flag: Latvia:` |
+| 1697 | U+1F1F1 U+1F1FE | 🇱🇾 | `:flag: Libya:` |
+| 1698 | U+1F1F2 U+1F1E6 | 🇲🇦 | `:flag: Morocco:` |
+| 1699 | U+1F1F2 U+1F1E8 | 🇲🇨 | `:flag: Monaco:` |
+| 1700 | U+1F1F2 U+1F1E9 | 🇲🇩 | `:flag: Moldova:` |
+| 1701 | U+1F1F2 U+1F1EA | 🇲🇪 | `:flag: Montenegro:` |
+| 1702 | U+1F1F2 U+1F1EB | 🇲🇫 | `:flag: St. Martin:` |
+| 1703 | U+1F1F2 U+1F1EC | 🇲🇬 | `:flag: Madagascar:` |
+| 1704 | U+1F1F2 U+1F1ED | 🇲🇭 | `:flag: Marshall Islands:` |
+| 1705 | U+1F1F2 U+1F1F0 | 🇲🇰 | `:flag: North Macedonia:` |
+| 1706 | U+1F1F2 U+1F1F1 | 🇲🇱 | `:flag: Mali:` |
+| 1707 | U+1F1F2 U+1F1F2 | 🇲🇲 | `:flag: Myanmar (Burma):` |
+| 1708 | U+1F1F2 U+1F1F3 | 🇲🇳 | `:flag: Mongolia:` |
+| 1709 | U+1F1F2 U+1F1F4 | 🇲🇴 | `:flag: Macao SAR China:` |
+| 1710 | U+1F1F2 U+1F1F5 | 🇲🇵 | `:flag: Northern Mariana Islands:` |
+| 1711 | U+1F1F2 U+1F1F6 | 🇲🇶 | `:flag: Martinique:` |
+| 1712 | U+1F1F2 U+1F1F7 | 🇲🇷 | `:flag: Mauritania:` |
+| 1713 | U+1F1F2 U+1F1F8 | 🇲🇸 | `:flag: Montserrat:` |
+| 1714 | U+1F1F2 U+1F1F9 | 🇲🇹 | `:flag: Malta:` |
+| 1715 | U+1F1F2 U+1F1FA | 🇲🇺 | `:flag: Mauritius:` |
+| 1716 | U+1F1F2 U+1F1FB | 🇲🇻 | `:flag: Maldives:` |
+| 1717 | U+1F1F2 U+1F1FC | 🇲🇼 | `:flag: Malawi:` |
+| 1718 | U+1F1F2 U+1F1FD | 🇲🇽 | `:flag: Mexico:` |
+| 1719 | U+1F1F2 U+1F1FE | 🇲🇾 | `:flag: Malaysia:` |
+| 1720 | U+1F1F2 U+1F1FF | 🇲🇿 | `:flag: Mozambique:` |
+| 1721 | U+1F1F3 U+1F1E6 | 🇳🇦 | `:flag: Namibia:` |
+| 1722 | U+1F1F3 U+1F1E8 | 🇳🇨 | `:flag: New Caledonia:` |
+| 1723 | U+1F1F3 U+1F1EA | 🇳🇪 | `:flag: Niger:` |
+| 1724 | U+1F1F3 U+1F1EB | 🇳🇫 | `:flag: Norfolk Island:` |
+| 1725 | U+1F1F3 U+1F1EC | 🇳🇬 | `:flag: Nigeria:` |
+| 1726 | U+1F1F3 U+1F1EE | 🇳🇮 | `:flag: Nicaragua:` |
+| 1727 | U+1F1F3 U+1F1F1 | 🇳🇱 | `:flag: Netherlands:` |
+| 1728 | U+1F1F3 U+1F1F4 | 🇳🇴 | `:flag: Norway:` |
+| 1729 | U+1F1F3 U+1F1F5 | 🇳🇵 | `:flag: Nepal:` |
+| 1730 | U+1F1F3 U+1F1F7 | 🇳🇷 | `:flag: Nauru:` |
+| 1731 | U+1F1F3 U+1F1FA | 🇳🇺 | `:flag: Niue:` |
+| 1732 | U+1F1F3 U+1F1FF | 🇳🇿 | `:flag: New Zealand:` |
+| 1733 | U+1F1F4 U+1F1F2 | 🇴🇲 | `:flag: Oman:` |
+| 1734 | U+1F1F5 U+1F1E6 | 🇵🇦 | `:flag: Panama:` |
+| 1735 | U+1F1F5 U+1F1EA | 🇵🇪 | `:flag: Peru:` |
+| 1736 | U+1F1F5 U+1F1EB | 🇵🇫 | `:flag: French Polynesia:` |
+| 1737 | U+1F1F5 U+1F1EC | 🇵🇬 | `:flag: Papua New Guinea:` |
+| 1738 | U+1F1F5 U+1F1ED | 🇵🇭 | `:flag: Philippines:` |
+| 1739 | U+1F1F5 U+1F1F0 | 🇵🇰 | `:flag: Pakistan:` |
+| 1740 | U+1F1F5 U+1F1F1 | 🇵🇱 | `:flag: Poland:` |
+| 1741 | U+1F1F5 U+1F1F2 | 🇵🇲 | `:flag: St. Pierre & Miquelon:` |
+| 1742 | U+1F1F5 U+1F1F3 | 🇵🇳 | `:flag: Pitcairn Islands:` |
+| 1743 | U+1F1F5 U+1F1F7 | 🇵🇷 | `:flag: Puerto Rico:` |
+| 1744 | U+1F1F5 U+1F1F8 | 🇵🇸 | `:flag: Palestinian Territories:` |
+| 1745 | U+1F1F5 U+1F1F9 | 🇵🇹 | `:flag: Portugal:` |
+| 1746 | U+1F1F5 U+1F1FC | 🇵🇼 | `:flag: Palau:` |
+| 1747 | U+1F1F5 U+1F1FE | 🇵🇾 | `:flag: Paraguay:` |
+| 1748 | U+1F1F6 U+1F1E6 | 🇶🇦 | `:flag: Qatar:` |
+| 1749 | U+1F1F7 U+1F1EA | 🇷🇪 | `:flag: Réunion:` |
+| 1750 | U+1F1F7 U+1F1F4 | 🇷🇴 | `:flag: Romania:` |
+| 1751 | U+1F1F7 U+1F1F8 | 🇷🇸 | `:flag: Serbia:` |
+| 1752 | U+1F1F7 U+1F1FA | 🇷🇺 | `:flag: Russia:` |
+| 1753 | U+1F1F7 U+1F1FC | 🇷🇼 | `:flag: Rwanda:` |
+| 1754 | U+1F1F8 U+1F1E6 | 🇸🇦 | `:flag: Saudi Arabia:` |
+| 1755 | U+1F1F8 U+1F1E7 | 🇸🇧 | `:flag: Solomon Islands:` |
+| 1756 | U+1F1F8 U+1F1E8 | 🇸🇨 | `:flag: Seychelles:` |
+| 1757 | U+1F1F8 U+1F1E9 | 🇸🇩 | `:flag: Sudan:` |
+| 1758 | U+1F1F8 U+1F1EA | 🇸🇪 | `:flag: Sweden:` |
+| 1759 | U+1F1F8 U+1F1EC | 🇸🇬 | `:flag: Singapore:` |
+| 1760 | U+1F1F8 U+1F1ED | 🇸🇭 | `:flag: St. Helena:` |
+| 1761 | U+1F1F8 U+1F1EE | 🇸🇮 | `:flag: Slovenia:` |
+| 1762 | U+1F1F8 U+1F1EF | 🇸🇯 | `:flag: Svalbard & Jan Mayen:` |
+| 1763 | U+1F1F8 U+1F1F0 | 🇸🇰 | `:flag: Slovakia:` |
+| 1764 | U+1F1F8 U+1F1F1 | 🇸🇱 | `:flag: Sierra Leone:` |
+| 1765 | U+1F1F8 U+1F1F2 | 🇸🇲 | `:flag: San Marino:` |
+| 1766 | U+1F1F8 U+1F1F3 | 🇸🇳 | `:flag: Senegal:` |
+| 1767 | U+1F1F8 U+1F1F4 | 🇸🇴 | `:flag: Somalia:` |
+| 1768 | U+1F1F8 U+1F1F7 | 🇸🇷 | `:flag: Suriname:` |
+| 1769 | U+1F1F8 U+1F1F8 | 🇸🇸 | `:flag: South Sudan:` |
+| 1770 | U+1F1F8 U+1F1F9 | 🇸🇹 | `:flag: São Tomé & Príncipe:` |
+| 1771 | U+1F1F8 U+1F1FB | 🇸🇻 | `:flag: El Salvador:` |
+| 1772 | U+1F1F8 U+1F1FD | 🇸🇽 | `:flag: Sint Maarten:` |
+| 1773 | U+1F1F8 U+1F1FE | 🇸🇾 | `:flag: Syria:` |
+| 1774 | U+1F1F8 U+1F1FF | 🇸🇿 | `:flag: Eswatini:` |
+| 1775 | U+1F1F9 U+1F1E6 | 🇹🇦 | `:flag: Tristan da Cunha:` |
+| 1776 | U+1F1F9 U+1F1E8 | 🇹🇨 | `:flag: Turks & Caicos Islands:` |
+| 1777 | U+1F1F9 U+1F1E9 | 🇹🇩 | `:flag: Chad:` |
+| 1778 | U+1F1F9 U+1F1EB | 🇹🇫 | `:flag: French Southern Territories:` |
+| 1779 | U+1F1F9 U+1F1EC | 🇹🇬 | `:flag: Togo:` |
+| 1780 | U+1F1F9 U+1F1ED | 🇹🇭 | `:flag: Thailand:` |
+| 1781 | U+1F1F9 U+1F1EF | 🇹🇯 | `:flag: Tajikistan:` |
+| 1782 | U+1F1F9 U+1F1F0 | 🇹🇰 | `:flag: Tokelau:` |
+| 1783 | U+1F1F9 U+1F1F1 | 🇹🇱 | `:flag: Timor-Leste:` |
+| 1784 | U+1F1F9 U+1F1F2 | 🇹🇲 | `:flag: Turkmenistan:` |
+| 1785 | U+1F1F9 U+1F1F3 | 🇹🇳 | `:flag: Tunisia:` |
+| 1786 | U+1F1F9 U+1F1F4 | 🇹🇴 | `:flag: Tonga:` |
+| 1787 | U+1F1F9 U+1F1F7 | 🇹🇷 | `:flag: Turkey:` |
+| 1788 | U+1F1F9 U+1F1F9 | 🇹🇹 | `:flag: Trinidad & Tobago:` |
+| 1789 | U+1F1F9 U+1F1FB | 🇹🇻 | `:flag: Tuvalu:` |
+| 1790 | U+1F1F9 U+1F1FC | 🇹🇼 | `:flag: Taiwan:` |
+| 1791 | U+1F1F9 U+1F1FF | 🇹🇿 | `:flag: Tanzania:` |
+| 1792 | U+1F1FA U+1F1E6 | 🇺🇦 | `:flag: Ukraine:` |
+| 1793 | U+1F1FA U+1F1EC | 🇺🇬 | `:flag: Uganda:` |
+| 1794 | U+1F1FA U+1F1F2 | 🇺🇲 | `:flag: U.S. Outlying Islands:` |
+| 1795 | U+1F1FA U+1F1F3 | 🇺🇳 | `:flag: United Nations:` |
+| 1796 | U+1F1FA U+1F1F8 | 🇺🇸 | `:flag: United States:` |
+| 1797 | U+1F1FA U+1F1FE | 🇺🇾 | `:flag: Uruguay:` |
+| 1798 | U+1F1FA U+1F1FF | 🇺🇿 | `:flag: Uzbekistan:` |
+| 1799 | U+1F1FB U+1F1E6 | 🇻🇦 | `:flag: Vatican City:` |
+| 1800 | U+1F1FB U+1F1E8 | 🇻🇨 | `:flag: St. Vincent & Grenadines:` |
+| 1801 | U+1F1FB U+1F1EA | 🇻🇪 | `:flag: Venezuela:` |
+| 1802 | U+1F1FB U+1F1EC | 🇻🇬 | `:flag: British Virgin Islands:` |
+| 1803 | U+1F1FB U+1F1EE | 🇻🇮 | `:flag: U.S. Virgin Islands:` |
+| 1804 | U+1F1FB U+1F1F3 | 🇻🇳 | `:flag: Vietnam:` |
+| 1805 | U+1F1FB U+1F1FA | 🇻🇺 | `:flag: Vanuatu:` |
+| 1806 | U+1F1FC U+1F1EB | 🇼🇫 | `:flag: Wallis & Futuna:` |
+| 1807 | U+1F1FC U+1F1F8 | 🇼🇸 | `:flag: Samoa:` |
+| 1808 | U+1F1FD U+1F1F0 | 🇽🇰 | `:flag: Kosovo:` |
+| 1809 | U+1F1FE U+1F1EA | 🇾🇪 | `:flag: Yemen:` |
+| 1810 | U+1F1FE U+1F1F9 | 🇾🇹 | `:flag: Mayotte:` |
+| 1811 | U+1F1FF U+1F1E6 | 🇿🇦 | `:flag: South Africa:` |
+| 1812 | U+1F1FF U+1F1F2 | 🇿🇲 | `:flag: Zambia:` |
+| 1813 | U+1F1FF U+1F1FC | 🇿🇼 | `:flag: Zimbabwe:` |
 
 <h3>subdivision-flag</h3>
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
-| 1814 | U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | flag: England |
-| 1815 | U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | flag: Scotland |
-| 1816 | U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | flag: Wales |
+| 1814 | U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | `:flag: England:` |
+| 1815 | U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | `:flag: Scotland:` |
+| 1816 | U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | `:flag: Wales:` |
