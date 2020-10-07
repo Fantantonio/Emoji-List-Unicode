@@ -1,11 +1,122 @@
 # EMOJI LIST - Unicode
 
-## Table
 
 
+## Index
 
+* [Smileys & Emotion](#Smileys & Emotion)
+  * [face-smiling](#face-smiling)
+  * [face-affection](#face-affection)
+  * [face-tongue](#face-tongue)
+  * [face-hand](#face-hand)
+  * [face-neutral-skeptical](#face-neutral-skeptical)
+  * [face-sleepy](#face-sleepy)
+  * [face-unwell](#face-unwell)
+  * [face-hat](#face-hat)
+  * [face-glasses](#face-glasses)
+  * [face-concerned](#face-concerned)
+  * [face-negative](#face-negative)
+  * [face-costume](#face-costume)
+  * [cat-face](#cat-face)
+  * [monkey-face](#monkey-face)
+  * [emotion](#emotion)
+* [People & Body](#People & Body)
+  * [hand-fingers-open](#hand-fingers-open)
+  * [hand-fingers-partial](#hand-fingers-partial)
+  * [hand-single-finger](#hand-single-finger)
+  * [hand-fingers-closed](#hand-fingers-closed)
+  * [hands](#hands)
+  * [hand-prop](#hand-prop)
+  * [body-parts](#body-parts)
+  * [person](#person)
+  * [person-gesture](#person-gesture)
+  * [person-role](#person-role)
+  * [person-fantasy](#person-fantasy)
+  * [person-activity](#person-activity)
+  * [person-sport](#person-sport)
+  * [person-resting](#person-resting)
+  * [family](#family)
+  * [person-symbol](#person-symbol)
+* [Component](#Component)
+  * [hair-style](#hair-style)
+* [Animals & Nature](#Animals & Nature)
+  * [animal-mammal](#animal-mammal)
+  * [animal-bird](#animal-bird)
+  * [animal-amphibian](#animal-amphibian)
+  * [animal-reptile](#animal-reptile)
+  * [animal-marine](#animal-marine)
+  * [animal-bug](#animal-bug)
+  * [plant-flower](#plant-flower)
+  * [plant-other](#plant-other)
+* [Food & Drink](#Food & Drink)
+  * [food-fruit](#food-fruit)
+  * [food-vegetable](#food-vegetable)
+  * [food-prepared](#food-prepared)
+  * [food-asian](#food-asian)
+  * [food-marine](#food-marine)
+  * [food-sweet](#food-sweet)
+  * [drink](#drink)
+  * [dishware](#dishware)
+* [Travel & Places](#Travel & Places)
+  * [place-map](#place-map)
+  * [place-geographic](#place-geographic)
+  * [place-building](#place-building)
+  * [place-religious](#place-religious)
+  * [place-other](#place-other)
+  * [transport-ground](#transport-ground)
+  * [transport-water](#transport-water)
+  * [transport-air](#transport-air)
+  * [hotel](#hotel)
+  * [time](#time)
+  * [sky & weather](#sky & weather)
+* [Activities](#Activities)
+  * [event](#event)
+  * [award-medal](#award-medal)
+  * [sport](#sport)
+  * [game](#game)
+  * [arts & crafts](#arts & crafts)
+* [Objects](#Objects)
+  * [clothing](#clothing)
+  * [sound](#sound)
+  * [music](#music)
+  * [musical-instrument](#musical-instrument)
+  * [phone](#phone)
+  * [computer](#computer)
+  * [light & video](#light & video)
+  * [book-paper](#book-paper)
+  * [money](#money)
+  * [mail](#mail)
+  * [writing](#writing)
+  * [office](#office)
+  * [lock](#lock)
+  * [tool](#tool)
+  * [science](#science)
+  * [medical](#medical)
+  * [household](#household)
+  * [other-object](#other-object)
+* [Symbols](#Symbols)
+  * [transport-sign](#transport-sign)
+  * [warning](#warning)
+  * [arrow](#arrow)
+  * [religion](#religion)
+  * [zodiac](#zodiac)
+  * [av-symbol](#av-symbol)
+  * [gender](#gender)
+  * [math](#math)
+  * [punctuation](#punctuation)
+  * [currency](#currency)
+  * [other-symbol](#other-symbol)
+  * [keycap](#keycap)
+  * [alphanum](#alphanum)
+  * [geometric](#geometric)
+* [Flags](#Flags)
+  * [flag](#flag)
+  * [country-flag](#country-flag)
+  * [subdivision-flag](#subdivision-flag)
+<br><br><br>
+## Smileys & Emotion
+#### face-smiling
 
-<h3>Smileys & Emotion</h3><h5>face-smiling</h5><br>
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -23,7 +134,8 @@
 | 12 | U+1F60A | 😊 | `:smiling face with smiling eyes:` |
 | 13 | U+1F607 | 😇 | `:smiling face with halo:` |
 
-<h3>face-affection</h3>
+#### face-affection
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -37,7 +149,8 @@
 | 21 | U+1F619 | 😙 | `:kissing face with smiling eyes:` |
 | 22 | U+1F972 | 🥲 | `:smiling face with tear:` |
 
-<h3>face-tongue</h3>
+#### face-tongue
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -48,7 +161,8 @@
 | 27 | U+1F61D | 😝 | `:squinting face with tongue:` |
 | 28 | U+1F911 | 🤑 | `:money-mouth face:` |
 
-<h3>face-hand</h3>
+#### face-hand
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -57,7 +171,8 @@
 | 31 | U+1F92B | 🤫 | `:shushing face:` |
 | 32 | U+1F914 | 🤔 | `:thinking face:` |
 
-<h3>face-neutral-skeptical</h3>
+#### face-neutral-skeptical
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -74,7 +189,8 @@
 | 43 | U+1F62E U+200D U+1F4A8 | 😮‍💨 | `:face exhaling:` |
 | 44 | U+1F925 | 🤥 | `:lying face:` |
 
-<h3>face-sleepy</h3>
+#### face-sleepy
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -84,7 +200,8 @@
 | 48 | U+1F924 | 🤤 | `:drooling face:` |
 | 49 | U+1F634 | 😴 | `:sleeping face:` |
 
-<h3>face-unwell</h3>
+#### face-unwell
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -101,7 +218,8 @@
 | 60 | U+1F635 U+200D U+1F4AB | 😵‍💫 | `:face with spiral eyes:` |
 | 61 | U+1F92F | 🤯 | `:exploding head:` |
 
-<h3>face-hat</h3>
+#### face-hat
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -109,7 +227,8 @@
 | 63 | U+1F973 | 🥳 | `:partying face:` |
 | 64 | U+1F978 | 🥸 | `:disguised face:` |
 
-<h3>face-glasses</h3>
+#### face-glasses
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -117,7 +236,8 @@
 | 66 | U+1F913 | 🤓 | `:nerd face:` |
 | 67 | U+1F9D0 | 🧐 | `:face with monocle:` |
 
-<h3>face-concerned</h3>
+#### face-concerned
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -146,7 +266,8 @@
 | 90 | U+1F62B | 😫 | `:tired face:` |
 | 91 | U+1F971 | 🥱 | `:yawning face:` |
 
-<h3>face-negative</h3>
+#### face-negative
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -159,7 +280,8 @@
 | 98 | U+1F480 | 💀 | `:skull:` |
 | 99 | U+2620 | ☠ | `:skull and crossbones:` |
 
-<h3>face-costume</h3>
+#### face-costume
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -172,7 +294,8 @@
 | 106 | U+1F47E | 👾 | `:alien monster:` |
 | 107 | U+1F916 | 🤖 | `:robot:` |
 
-<h3>cat-face</h3>
+#### cat-face
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -186,7 +309,8 @@
 | 115 | U+1F63F | 😿 | `:crying cat:` |
 | 116 | U+1F63E | 😾 | `:pouting cat:` |
 
-<h3>monkey-face</h3>
+#### monkey-face
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -194,7 +318,8 @@
 | 118 | U+1F649 | 🙉 | `:hear-no-evil monkey:` |
 | 119 | U+1F64A | 🙊 | `:speak-no-evil monkey:` |
 
-<h3>emotion</h3>
+#### emotion
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -236,7 +361,9 @@
 | 155 | U+1F4AD | 💭 | `:thought balloon:` |
 | 156 | U+1F4A4 | 💤 | `:zzz:` |
 
-<h3>People & Body</h3><h5>hand-fingers-open</h5><br>
+## People & Body
+#### hand-fingers-open
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -246,7 +373,8 @@
 | 160 | U+270B | ✋ | `:raised hand:` |
 | 161 | U+1F596 | 🖖 | `:vulcan salute:` |
 
-<h3>hand-fingers-partial</h3>
+#### hand-fingers-partial
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -259,7 +387,8 @@
 | 168 | U+1F918 | 🤘 | `:sign of the horns:` |
 | 169 | U+1F919 | 🤙 | `:call me hand:` |
 
-<h3>hand-single-finger</h3>
+#### hand-single-finger
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -270,7 +399,8 @@
 | 174 | U+1F447 | 👇 | `:backhand index pointing down:` |
 | 175 | U+261D | ☝ | `:index pointing up:` |
 
-<h3>hand-fingers-closed</h3>
+#### hand-fingers-closed
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -281,7 +411,8 @@
 | 180 | U+1F91B | 🤛 | `:left-facing fist:` |
 | 181 | U+1F91C | 🤜 | `:right-facing fist:` |
 
-<h3>hands</h3>
+#### hands
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -292,7 +423,8 @@
 | 186 | U+1F91D | 🤝 | `:handshake:` |
 | 187 | U+1F64F | 🙏 | `:folded hands:` |
 
-<h3>hand-prop</h3>
+#### hand-prop
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -300,7 +432,8 @@
 | 189 | U+1F485 | 💅 | `:nail polish:` |
 | 190 | U+1F933 | 🤳 | `:selfie:` |
 
-<h3>body-parts</h3>
+#### body-parts
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -322,7 +455,8 @@
 | 206 | U+1F445 | 👅 | `:tongue:` |
 | 207 | U+1F444 | 👄 | `:mouth:` |
 
-<h3>person</h3>
+#### person
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -355,7 +489,8 @@
 | 234 | U+1F474 | 👴 | `:old man:` |
 | 235 | U+1F475 | 👵 | `:old woman:` |
 
-<h3>person-gesture</h3>
+#### person-gesture
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -390,7 +525,8 @@
 | 264 | U+1F937 U+200D U+2642 U+FE0F | 🤷‍♂️ | `:man shrugging:` |
 | 265 | U+1F937 U+200D U+2640 U+FE0F | 🤷‍♀️ | `:woman shrugging:` |
 
-<h3>person-role</h3>
+#### person-role
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -474,7 +610,8 @@
 | 343 | U+1F468 U+200D U+1F37C | 👨‍🍼 | `:man feeding baby:` |
 | 344 | U+1F9D1 U+200D U+1F37C | 🧑‍🍼 | `:person feeding baby:` |
 
-<h3>person-fantasy</h3>
+#### person-fantasy
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -510,7 +647,8 @@
 | 374 | U+1F9DF U+200D U+2642 U+FE0F | 🧟‍♂️ | `:man zombie:` |
 | 375 | U+1F9DF U+200D U+2640 U+FE0F | 🧟‍♀️ | `:woman zombie:` |
 
-<h3>person-activity</h3>
+#### person-activity
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -554,7 +692,8 @@
 | 413 | U+1F9D7 U+200D U+2642 U+FE0F | 🧗‍♂️ | `:man climbing:` |
 | 414 | U+1F9D7 U+200D U+2640 U+FE0F | 🧗‍♀️ | `:woman climbing:` |
 
-<h3>person-sport</h3>
+#### person-sport
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -602,7 +741,8 @@
 | 456 | U+1F939 U+200D U+2642 U+FE0F | 🤹‍♂️ | `:man juggling:` |
 | 457 | U+1F939 U+200D U+2640 U+FE0F | 🤹‍♀️ | `:woman juggling:` |
 
-<h3>person-resting</h3>
+#### person-resting
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -612,7 +752,8 @@
 | 461 | U+1F6C0 | 🛀 | `:person taking bath:` |
 | 462 | U+1F6CC | 🛌 | `:person in bed:` |
 
-<h3>family</h3>
+#### family
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -655,7 +796,8 @@
 | 499 | U+1F469 U+200D U+1F467 U+200D U+1F466 | 👩‍👧‍👦 | `:family: woman, girl, boy:` |
 | 500 | U+1F469 U+200D U+1F467 U+200D U+1F467 | 👩‍👧‍👧 | `:family: woman, girl, girl:` |
 
-<h3>person-symbol</h3>
+#### person-symbol
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -665,7 +807,9 @@
 | 504 | U+1FAC2 | 🫂 | `:people hugging:` |
 | 505 | U+1F463 | 👣 | `:footprints:` |
 
-<h3>Component</h3><h5>hair-style</h5><br>
+## Component
+#### hair-style
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -674,7 +818,9 @@
 | 508 | U+1F9B3 | 🦳 | `:white hair:` |
 | 509 | U+1F9B2 | 🦲 | `:bald:` |
 
-<h3>Animals & Nature</h3><h5>animal-mammal</h5><br>
+## Animals & Nature
+#### animal-mammal
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -743,7 +889,8 @@
 | 572 | U+1F9A1 | 🦡 | `:badger:` |
 | 573 | U+1F43E | 🐾 | `:paw prints:` |
 
-<h3>animal-bird</h3>
+#### animal-bird
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -766,13 +913,15 @@
 | 590 | U+1F99A | 🦚 | `:peacock:` |
 | 591 | U+1F99C | 🦜 | `:parrot:` |
 
-<h3>animal-amphibian</h3>
+#### animal-amphibian
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
 | 592 | U+1F438 | 🐸 | `:frog:` |
 
-<h3>animal-reptile</h3>
+#### animal-reptile
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -785,7 +934,8 @@
 | 599 | U+1F995 | 🦕 | `:sauropod:` |
 | 600 | U+1F996 | 🦖 | `:T-Rex:` |
 
-<h3>animal-marine</h3>
+#### animal-marine
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -800,7 +950,8 @@
 | 609 | U+1F419 | 🐙 | `:octopus:` |
 | 610 | U+1F41A | 🐚 | `:spiral shell:` |
 
-<h3>animal-bug</h3>
+#### animal-bug
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -821,7 +972,8 @@
 | 625 | U+1FAB1 | 🪱 | `:worm:` |
 | 626 | U+1F9A0 | 🦠 | `:microbe:` |
 
-<h3>plant-flower</h3>
+#### plant-flower
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -836,7 +988,8 @@
 | 635 | U+1F33C | 🌼 | `:blossom:` |
 | 636 | U+1F337 | 🌷 | `:tulip:` |
 
-<h3>plant-other</h3>
+#### plant-other
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -854,7 +1007,9 @@
 | 648 | U+1F342 | 🍂 | `:fallen leaf:` |
 | 649 | U+1F343 | 🍃 | `:leaf fluttering in wind:` |
 
-<h3>Food & Drink</h3><h5>food-fruit</h5><br>
+## Food & Drink
+#### food-fruit
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -878,7 +1033,8 @@
 | 667 | U+1FAD2 | 🫒 | `:olive:` |
 | 668 | U+1F965 | 🥥 | `:coconut:` |
 
-<h3>food-vegetable</h3>
+#### food-vegetable
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -898,7 +1054,8 @@
 | 682 | U+1F95C | 🥜 | `:peanuts:` |
 | 683 | U+1F330 | 🌰 | `:chestnut:` |
 
-<h3>food-prepared</h3>
+#### food-prepared
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -937,7 +1094,8 @@
 | 716 | U+1F9C2 | 🧂 | `:salt:` |
 | 717 | U+1F96B | 🥫 | `:canned food:` |
 
-<h3>food-asian</h3>
+#### food-asian
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -959,7 +1117,8 @@
 | 733 | U+1F960 | 🥠 | `:fortune cookie:` |
 | 734 | U+1F961 | 🥡 | `:takeout box:` |
 
-<h3>food-marine</h3>
+#### food-marine
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -969,7 +1128,8 @@
 | 738 | U+1F991 | 🦑 | `:squid:` |
 | 739 | U+1F9AA | 🦪 | `:oyster:` |
 
-<h3>food-sweet</h3>
+#### food-sweet
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -988,7 +1148,8 @@
 | 752 | U+1F36E | 🍮 | `:custard:` |
 | 753 | U+1F36F | 🍯 | `:honey pot:` |
 
-<h3>drink</h3>
+#### drink
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1012,7 +1173,8 @@
 | 771 | U+1F9C9 | 🧉 | `:mate:` |
 | 772 | U+1F9CA | 🧊 | `:ice:` |
 
-<h3>dishware</h3>
+#### dishware
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1023,7 +1185,9 @@
 | 777 | U+1F52A | 🔪 | `:kitchen knife:` |
 | 778 | U+1F3FA | 🏺 | `:amphora:` |
 
-<h3>Travel & Places</h3><h5>place-map</h5><br>
+## Travel & Places
+#### place-map
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1035,7 +1199,8 @@
 | 784 | U+1F5FE | 🗾 | `:map of Japan:` |
 | 785 | U+1F9ED | 🧭 | `:compass:` |
 
-<h3>place-geographic</h3>
+#### place-geographic
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1049,7 +1214,8 @@
 | 793 | U+1F3DD | 🏝 | `:desert island:` |
 | 794 | U+1F3DE | 🏞 | `:national park:` |
 
-<h3>place-building</h3>
+#### place-building
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1081,7 +1247,8 @@
 | 820 | U+1F5FC | 🗼 | `:Tokyo tower:` |
 | 821 | U+1F5FD | 🗽 | `:Statue of Liberty:` |
 
-<h3>place-religious</h3>
+#### place-religious
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1092,7 +1259,8 @@
 | 826 | U+26E9 | ⛩ | `:shinto shrine:` |
 | 827 | U+1F54B | 🕋 | `:kaaba:` |
 
-<h3>place-other</h3>
+#### place-other
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1113,7 +1281,8 @@
 | 842 | U+1F488 | 💈 | `:barber pole:` |
 | 843 | U+1F3AA | 🎪 | `:circus tent:` |
 
-<h3>transport-ground</h3>
+#### transport-ground
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1167,7 +1336,8 @@
 | 891 | U+1F6D1 | 🛑 | `:stop sign:` |
 | 892 | U+1F6A7 | 🚧 | `:construction:` |
 
-<h3>transport-water</h3>
+#### transport-water
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1180,7 +1350,8 @@
 | 899 | U+1F6E5 | 🛥 | `:motor boat:` |
 | 900 | U+1F6A2 | 🚢 | `:ship:` |
 
-<h3>transport-air</h3>
+#### transport-air
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1198,14 +1369,16 @@
 | 912 | U+1F680 | 🚀 | `:rocket:` |
 | 913 | U+1F6F8 | 🛸 | `:flying saucer:` |
 
-<h3>hotel</h3>
+#### hotel
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
 | 914 | U+1F6CE | 🛎 | `:bellhop bell:` |
 | 915 | U+1F9F3 | 🧳 | `:luggage:` |
 
-<h3>time</h3>
+#### time
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1241,7 +1414,8 @@
 | 945 | U+1F55A | 🕚 | `:eleven o’clock:` |
 | 946 | U+1F566 | 🕦 | `:eleven-thirty:` |
 
-<h3>sky & weather</h3>
+#### sky & weather
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1293,7 +1467,9 @@
 | 992 | U+1F4A7 | 💧 | `:droplet:` |
 | 993 | U+1F30A | 🌊 | `:water wave:` |
 
-<h3>Activities</h3><h5>event</h5><br>
+## Activities
+#### event
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1319,7 +1495,8 @@
 | 1013 | U+1F39F | 🎟 | `:admission tickets:` |
 | 1014 | U+1F3AB | 🎫 | `:ticket:` |
 
-<h3>award-medal</h3>
+#### award-medal
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1330,7 +1507,8 @@
 | 1019 | U+1F948 | 🥈 | `:2nd place medal:` |
 | 1020 | U+1F949 | 🥉 | `:3rd place medal:` |
 
-<h3>sport</h3>
+#### sport
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1362,7 +1540,8 @@
 | 1046 | U+1F6F7 | 🛷 | `:sled:` |
 | 1047 | U+1F94C | 🥌 | `:curling stone:` |
 
-<h3>game</h3>
+#### game
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1390,7 +1569,8 @@
 | 1069 | U+1F004 | 🀄 | `:mahjong red dragon:` |
 | 1070 | U+1F3B4 | 🎴 | `:flower playing cards:` |
 
-<h3>arts & crafts</h3>
+#### arts & crafts
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1402,7 +1582,9 @@
 | 1076 | U+1F9F6 | 🧶 | `:yarn:` |
 | 1077 | U+1FAA2 | 🪢 | `:knot:` |
 
-<h3>Objects</h3><h5>clothing</h5><br>
+## Objects
+#### clothing
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1452,7 +1634,8 @@
 | 1121 | U+1F48D | 💍 | `:ring:` |
 | 1122 | U+1F48E | 💎 | `:gem stone:` |
 
-<h3>sound</h3>
+#### sound
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1466,7 +1649,8 @@
 | 1130 | U+1F514 | 🔔 | `:bell:` |
 | 1131 | U+1F515 | 🔕 | `:bell with slash:` |
 
-<h3>music</h3>
+#### music
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1480,7 +1664,8 @@
 | 1139 | U+1F3A7 | 🎧 | `:headphone:` |
 | 1140 | U+1F4FB | 📻 | `:radio:` |
 
-<h3>musical-instrument</h3>
+#### musical-instrument
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1494,7 +1679,8 @@
 | 1148 | U+1F941 | 🥁 | `:drum:` |
 | 1149 | U+1FA98 | 🪘 | `:long drum:` |
 
-<h3>phone</h3>
+#### phone
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1505,7 +1691,8 @@
 | 1154 | U+1F4DF | 📟 | `:pager:` |
 | 1155 | U+1F4E0 | 📠 | `:fax machine:` |
 
-<h3>computer</h3>
+#### computer
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1523,7 +1710,8 @@
 | 1167 | U+1F4C0 | 📀 | `:dvd:` |
 | 1168 | U+1F9EE | 🧮 | `:abacus:` |
 
-<h3>light & video</h3>
+#### light & video
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1544,7 +1732,8 @@
 | 1183 | U+1F3EE | 🏮 | `:red paper lantern:` |
 | 1184 | U+1FA94 | 🪔 | `:diya lamp:` |
 
-<h3>book-paper</h3>
+#### book-paper
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1566,7 +1755,8 @@
 | 1200 | U+1F516 | 🔖 | `:bookmark:` |
 | 1201 | U+1F3F7 | 🏷 | `:label:` |
 
-<h3>money</h3>
+#### money
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1581,7 +1771,8 @@
 | 1210 | U+1F9FE | 🧾 | `:receipt:` |
 | 1211 | U+1F4B9 | 💹 | `:chart increasing with yen:` |
 
-<h3>mail</h3>
+#### mail
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1599,7 +1790,8 @@
 | 1223 | U+1F4EE | 📮 | `:postbox:` |
 | 1224 | U+1F5F3 | 🗳 | `:ballot box with ballot:` |
 
-<h3>writing</h3>
+#### writing
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1611,7 +1803,8 @@
 | 1230 | U+1F58D | 🖍 | `:crayon:` |
 | 1231 | U+1F4DD | 📝 | `:memo:` |
 
-<h3>office</h3>
+#### office
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1639,7 +1832,8 @@
 | 1253 | U+1F5C4 | 🗄 | `:file cabinet:` |
 | 1254 | U+1F5D1 | 🗑 | `:wastebasket:` |
 
-<h3>lock</h3>
+#### lock
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1650,7 +1844,8 @@
 | 1259 | U+1F511 | 🔑 | `:key:` |
 | 1260 | U+1F5DD | 🗝 | `:old key:` |
 
-<h3>tool</h3>
+#### tool
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1680,7 +1875,8 @@
 | 1284 | U+1F9F2 | 🧲 | `:magnet:` |
 | 1285 | U+1FA9C | 🪜 | `:ladder:` |
 
-<h3>science</h3>
+#### science
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1692,7 +1888,8 @@
 | 1291 | U+1F52D | 🔭 | `:telescope:` |
 | 1292 | U+1F4E1 | 📡 | `:satellite antenna:` |
 
-<h3>medical</h3>
+#### medical
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1702,7 +1899,8 @@
 | 1296 | U+1FA79 | 🩹 | `:adhesive bandage:` |
 | 1297 | U+1FA7A | 🩺 | `:stethoscope:` |
 
-<h3>household</h3>
+#### household
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1731,7 +1929,8 @@
 | 1320 | U+1F9EF | 🧯 | `:fire extinguisher:` |
 | 1321 | U+1F6D2 | 🛒 | `:shopping cart:` |
 
-<h3>other-object</h3>
+#### other-object
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1742,7 +1941,9 @@
 | 1326 | U+1F5FF | 🗿 | `:moai:` |
 | 1327 | U+1FAA7 | 🪧 | `:placard:` |
 
-<h3>Symbols</h3><h5>transport-sign</h5><br>
+## Symbols
+#### transport-sign
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1760,7 +1961,8 @@
 | 1339 | U+1F6C4 | 🛄 | `:baggage claim:` |
 | 1340 | U+1F6C5 | 🛅 | `:left luggage:` |
 
-<h3>warning</h3>
+#### warning
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1778,7 +1980,8 @@
 | 1352 | U+2622 | ☢ | `:radioactive:` |
 | 1353 | U+2623 | ☣ | `:biohazard:` |
 
-<h3>arrow</h3>
+#### arrow
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1804,7 +2007,8 @@
 | 1373 | U+1F51C | 🔜 | `:SOON arrow:` |
 | 1374 | U+1F51D | 🔝 | `:TOP arrow:` |
 
-<h3>religion</h3>
+#### religion
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1821,7 +2025,8 @@
 | 1385 | U+1F54E | 🕎 | `:menorah:` |
 | 1386 | U+1F52F | 🔯 | `:dotted six-pointed star:` |
 
-<h3>zodiac</h3>
+#### zodiac
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1839,7 +2044,8 @@
 | 1398 | U+2653 | ♓ | `:Pisces:` |
 | 1399 | U+26CE | ⛎ | `:Ophiuchus:` |
 
-<h3>av-symbol</h3>
+#### av-symbol
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1868,7 +2074,8 @@
 | 1422 | U+1F4F3 | 📳 | `:vibration mode:` |
 | 1423 | U+1F4F4 | 📴 | `:mobile phone off:` |
 
-<h3>gender</h3>
+#### gender
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1876,7 +2083,8 @@
 | 1425 | U+2642 | ♂ | `:male sign:` |
 | 1426 | U+26A7 | ⚧ | `:transgender symbol:` |
 
-<h3>math</h3>
+#### math
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1886,7 +2094,8 @@
 | 1430 | U+2797 | ➗ | `:divide:` |
 | 1431 | U+267E | ♾ | `:infinity:` |
 
-<h3>punctuation</h3>
+#### punctuation
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1898,14 +2107,16 @@
 | 1437 | U+2757 | ❗ | `:red exclamation mark:` |
 | 1438 | U+3030 | 〰 | `:wavy dash:` |
 
-<h3>currency</h3>
+#### currency
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
 | 1439 | U+1F4B1 | 💱 | `:currency exchange:` |
 | 1440 | U+1F4B2 | 💲 | `:heavy dollar sign:` |
 
-<h3>other-symbol</h3>
+#### other-symbol
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1931,7 +2142,8 @@
 | 1460 | U+00AE | ® | `:registered:` |
 | 1461 | U+2122 | ™ | `:trade mark:` |
 
-<h3>keycap</h3>
+#### keycap
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1949,7 +2161,8 @@
 | 1473 | U+0039 U+FE0F U+20E3 | 9️⃣ | `:keycap: 9:` |
 | 1474 | U+1F51F | 🔟 | `:keycap: 10:` |
 
-<h3>alphanum</h3>
+#### alphanum
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -1993,7 +2206,8 @@
 | 1512 | U+1F23A | 🈺 | `:Japanese “open for business” button:` |
 | 1513 | U+1F235 | 🈵 | `:Japanese “no vacancy” button:` |
 
-<h3>geometric</h3>
+#### geometric
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -2032,7 +2246,9 @@
 | 1546 | U+1F533 | 🔳 | `:white square button:` |
 | 1547 | U+1F532 | 🔲 | `:black square button:` |
 
-<h3>Flags</h3><h5>flag</h5><br>
+## Flags
+#### flag
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -2045,7 +2261,8 @@
 | 1554 | U+1F3F3 U+FE0F U+200D U+26A7 U+FE0F | 🏳️‍⚧️ | `:transgender flag:` |
 | 1555 | U+1F3F4 U+200D U+2620 U+FE0F | 🏴‍☠️ | `:pirate flag:` |
 
-<h3>country-flag</h3>
+#### country-flag
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
@@ -2308,7 +2525,8 @@
 | 1812 | U+1F1FF U+1F1F2 | 🇿🇲 | `:flag: Zambia:` |
 | 1813 | U+1F1FF U+1F1FC | 🇿🇼 | `:flag: Zimbabwe:` |
 
-<h3>subdivision-flag</h3>
+#### subdivision-flag
+
 
 | Number | Code | Emoji | CLDR Short Name |
 |:---|:---:|:---:|---:|
