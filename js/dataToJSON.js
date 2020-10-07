@@ -20,7 +20,8 @@ for (let item of listtwo) {
     let ginger = [];
     for (let elem of item) {
         if (elem.innerText !== "" && elem.innerText !== "—" && elem.innerText !== "…  …") {
-            let buffer = elem.innerText.replace("⊛ ", "");
+            let buffer = elem.innerText;
+            buffer = buffer.replace("⊛ ", "");
             ginger.push(buffer);
         }
     }
