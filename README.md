@@ -4,7 +4,7 @@
 
 ## Index
 
-* [Smileys-&-Emotion](#Smileys-&-Emotion)
+* [Smileys-and-Emotion](#Smileys-and-Emotion)
   * [face-smiling](#face-smiling)
   * [face-affection](#face-affection)
   * [face-tongue](#face-tongue)
@@ -20,7 +20,7 @@
   * [cat-face](#cat-face)
   * [monkey-face](#monkey-face)
   * [emotion](#emotion)
-* [People-&-Body](#People-&-Body)
+* [People-and-Body](#People-and-Body)
   * [hand-fingers-open](#hand-fingers-open)
   * [hand-fingers-partial](#hand-fingers-partial)
   * [hand-single-finger](#hand-single-finger)
@@ -39,7 +39,7 @@
   * [person-symbol](#person-symbol)
 * [Component](#Component)
   * [hair-style](#hair-style)
-* [Animals-&-Nature](#Animals-&-Nature)
+* [Animals-and-Nature](#Animals-and-Nature)
   * [animal-mammal](#animal-mammal)
   * [animal-bird](#animal-bird)
   * [animal-amphibian](#animal-amphibian)
@@ -48,7 +48,7 @@
   * [animal-bug](#animal-bug)
   * [plant-flower](#plant-flower)
   * [plant-other](#plant-other)
-* [Food-&-Drink](#Food-&-Drink)
+* [Food-and-Drink](#Food-and-Drink)
   * [food-fruit](#food-fruit)
   * [food-vegetable](#food-vegetable)
   * [food-prepared](#food-prepared)
@@ -57,7 +57,7 @@
   * [food-sweet](#food-sweet)
   * [drink](#drink)
   * [dishware](#dishware)
-* [Travel-&-Places](#Travel-&-Places)
+* [Travel-and-Places](#Travel-and-Places)
   * [place-map](#place-map)
   * [place-geographic](#place-geographic)
   * [place-building](#place-building)
@@ -68,13 +68,13 @@
   * [transport-air](#transport-air)
   * [hotel](#hotel)
   * [time](#time)
-  * [sky-&-weather](#sky-&-weather)
+  * [sky-and-weather](#sky-and-weather)
 * [Activities](#Activities)
   * [event](#event)
   * [award-medal](#award-medal)
   * [sport](#sport)
   * [game](#game)
-  * [arts-&-crafts](#arts-&-crafts)
+  * [arts-and-crafts](#arts-and-crafts)
 * [Objects](#Objects)
   * [clothing](#clothing)
   * [sound](#sound)
@@ -82,7 +82,7 @@
   * [musical-instrument](#musical-instrument)
   * [phone](#phone)
   * [computer](#computer)
-  * [light-&-video](#light-&-video)
+  * [light-and-video](#light-and-video)
   * [book-paper](#book-paper)
   * [money](#money)
   * [mail](#mail)
@@ -114,7 +114,7 @@
   * [country-flag](#country-flag)
   * [subdivision-flag](#subdivision-flag)
 <br><br><br>
-## Smileys-&-Emotion
+## Smileys-and-Emotion
 #### face-smiling
 
 
@@ -361,7 +361,7 @@
 | 155 | U+1F4AD | 💭 | `:thought balloon:` |
 | 156 | U+1F4A4 | 💤 | `:zzz:` |
 
-## People-&-Body
+## People-and-Body
 #### hand-fingers-open
 
 
@@ -818,7 +818,7 @@
 | 508 | U+1F9B3 | 🦳 | `:white hair:` |
 | 509 | U+1F9B2 | 🦲 | `:bald:` |
 
-## Animals-&-Nature
+## Animals-and-Nature
 #### animal-mammal
 
 
@@ -1007,7 +1007,7 @@
 | 648 | U+1F342 | 🍂 | `:fallen leaf:` |
 | 649 | U+1F343 | 🍃 | `:leaf fluttering in wind:` |
 
-## Food-&-Drink
+## Food-and-Drink
 #### food-fruit
 
 
@@ -1185,7 +1185,7 @@
 | 777 | U+1F52A | 🔪 | `:kitchen knife:` |
 | 778 | U+1F3FA | 🏺 | `:amphora:` |
 
-## Travel-&-Places
+## Travel-and-Places
 #### place-map
 
 
@@ -1414,7 +1414,7 @@
 | 945 | U+1F55A | 🕚 | `:eleven o’clock:` |
 | 946 | U+1F566 | 🕦 | `:eleven-thirty:` |
 
-#### sky-&-weather
+#### sky-and-weather
 
 
 | Number | Code | Emoji | CLDR Short Name |
@@ -1569,7 +1569,7 @@
 | 1069 | U+1F004 | 🀄 | `:mahjong red dragon:` |
 | 1070 | U+1F3B4 | 🎴 | `:flower playing cards:` |
 
-#### arts-&-crafts
+#### arts-and-crafts
 
 
 | Number | Code | Emoji | CLDR Short Name |
@@ -1710,7 +1710,7 @@
 | 1167 | U+1F4C0 | 📀 | `:dvd:` |
 | 1168 | U+1F9EE | 🧮 | `:abacus:` |
 
-#### light-&-video
+#### light-and-video
 
 
 | Number | Code | Emoji | CLDR Short Name |
